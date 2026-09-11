@@ -56,24 +56,24 @@ pnpm build:pages
 
 The static output is `dist-pages/`. Brain downloads, portrait images, source downloads, and links all honor the project subdirectory. The complete simulation and trained classifier run on each visitor's device; GitHub Pages serves static files only. No GitHub token or other secret is shipped to the browser.
 
-## Run and deploy to Cloudflare
+## Run locally
 
 Open the information button in the app and choose **Download source**. The complete ZIP includes the prepared graph, trained readout, evaluation images, training/verification scripts, and results. Use Node 22.13+ and the pnpm version in `package.json`.
 
 ```bash
 corepack enable
 pnpm install --frozen-lockfile
-pnpm dev:cloudflare
+pnpm dev
 ```
 
-Deploy to your Cloudflare account:
+To preview the GitHub Pages build locally:
 
 ```bash
-pnpm exec wrangler login
-pnpm deploy:cloudflare
+pnpm build
+pnpm start
 ```
 
-This builds the React SPA and publishes Workers Static Assets using `wrangler.cloudflare.jsonc`. Change its worker `name` if needed. No AI API, GPU, Python backend, secrets, database or bindings are needed to run the demo. The separate Sites/Vinext entry is retained for the hosted demo; standalone Cloudflare deployment does not depend on Sites.
+Development runs at `http://localhost:5173/`; the built preview runs at `http://localhost:4173/single-fly/`. This is a static React app built with Vite. No AI API, GPU, Python backend, secrets, database, or server runtime is needed to run the demo.
 
 ## Reproduce training
 
@@ -101,11 +101,11 @@ python scripts/verify-training.py
 pnpm test:kernel
 pnpm test:worker
 pnpm exec tsc --noEmit
-pnpm build:cloudflare
-pnpm exec wrangler deploy --config wrangler.cloudflare.jsonc --dry-run
+pnpm build:pages
+pnpm test:pages
 ```
 
-`test:kernel` checks the JavaScript neural kernel against the unmodified upstream C++ fixture (exact spikes, bounded voltage/current errors). `test:worker` executes the **shipped bundled worker** with its real local assets and messaging protocol for all 70 held-out portraits; it requires scores to match offline evaluation to 1e-10 and checks repeated-image/order and changed-ID invariance. These tests do not substitute for visual/browser UI testing or biological validation. Browser UI QA was unavailable in this environment because preview navigation was blocked.
+`test:kernel` checks the JavaScript neural kernel against the unmodified upstream C++ fixture (exact spikes, bounded voltage/current errors). `test:worker` executes the **shipped bundled worker** with its real local assets and messaging protocol for all 70 held-out portraits; it requires scores to match offline evaluation to 1e-10 and checks repeated-image/order and changed-ID invariance. `test:pages` checks asset paths, built entrypoints, and the downloadable source. These tests do not substitute for visual/browser UI testing or biological validation.
 
 ## Attribution and resource use
 
@@ -115,4 +115,4 @@ pnpm exec wrangler deploy --config wrangler.cloudflare.jsonc --dry-run
 - Legacy placeholder photos: Pravatar / any individually documented Random User fallback in `public/profiles/sources.json`; their old names/bios are fictional.
 - @noble/hashes 1.8.0, MIT, with included license. Native Web Crypto is used when available; a bundled fallback performs the same SHA-256 validation otherwise.
 
-The 14 gzip graph chunks total 86.6 MB and are SHA-256 verified on load. The browser needs a few hundred MB of memory. Typical extraction took about 1.1–1.4 seconds of compute for 200 ms of brain time on this host; your device will differ. Assets are fetched on the page and transferred to a background worker. The downloadable ZIP is assembled from multiple assets, staying within Cloudflare's per-asset size limit.
+The 14 gzip graph chunks total 86.6 MB and are SHA-256 verified on load. The browser needs a few hundred MB of memory. Typical extraction took about 1.1–1.4 seconds of compute for 200 ms of brain time on this host; your device will differ. Assets are fetched on the page and transferred to a background worker. The downloadable ZIP is assembled in the browser from the source bundle and graph chunks.

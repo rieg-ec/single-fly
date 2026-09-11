@@ -1,57 +1,27 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Dependencies
+/node_modules/
+/.pnpm-store/
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/versions
+# Build and verification output
+/dist-pages/
+/coverage/
+*.tsbuildinfo
 
-# testing
-/coverage
-
-# next.js
-/.next/
-/.vinext/
-/out/
-
-# misc
-.DS_Store
+# Local settings and tools
+.env*
 *.pem
-
-# debug
+.DS_Store
+/.agents/
+/.codex/
+/outputs/
+/work/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
-.env*
-
-# vercel
-.vercel
-
-# typescript
-next-env.d.ts
-/dist/
-/.wrangler/
-# Checkout-local execution profile and tool state; never publish them.
-/.sites-runtime/
-/.agents/
-/.codex/
-/outputs/
-/work/
-
-# Standalone Cloudflare output
-dist-cloudflare/
-*.tsbuildinfo
+# Research runtime data
 vendor/doomfly/connectome_data/
 vendor/doomfly/outputs/
 __pycache__/
 *.pyc
-
-# GitHub Pages output
-dist-pages/

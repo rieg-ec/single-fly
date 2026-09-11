@@ -13,6 +13,8 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    env:
+      FLY_BASE_PATH: /${{ github.event.repository.name }}/
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -27,10 +29,12 @@ jobs:
         run: pnpm install --frozen-lockfile
       - name: Verify kernel
         run: pnpm test:kernel
+      - name: Check types
+        run: pnpm exec tsc --noEmit
       - name: Build
         run: pnpm build:pages
-        env:
-          FLY_BASE_PATH: /${{ github.event.repository.name }}/
+      - name: Verify Pages build
+        run: pnpm test:pages
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
