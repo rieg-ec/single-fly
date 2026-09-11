@@ -1,0 +1,10 @@
+import vm from 'node:vm';import {readFile} from 'node:fs/promises';import {webcrypto} from 'node:crypto';import assert from 'node:assert/strict';
+const root=new URL('../public/',import.meta.url),messages=[];const self={};
+self.postMessage=({type,...data})=>{if(type==='fetch'){readFile(new URL(data.url.slice(1),root)).then(bytes=>self.onmessage({data:{type:'fetched',id:data.id,status:200,buffer:bytes.buffer.slice(bytes.byteOffset,bytes.byteOffset+bytes.byteLength)}})).catch(e=>self.onmessage({data:{type:'fetched',id:data.id,error:String(e)}}));}else{messages.push({type,...data});}};
+const source=await readFile(new URL('brain/worker.mjs',root),'utf8');
+vm.runInNewContext(source,{self,crypto:webcrypto,Blob,Response,DecompressionStream,performance,Uint8Array,Uint32Array,Int32Array,Int16Array,Float32Array,Float64Array,ArrayBuffer,DataView,TextEncoder,TextDecoder,console});
+await self.onmessage({data:{type:'init'}});
+assert.equal(messages.at(-1).type,'ready',JSON.stringify(messages.at(-1)));
+assert.equal(messages.find(m=>m.type==='meta').meta.neurons,166700);
+assert.equal(messages.filter(m=>m.type==='loading').at(-1).progress,100);
+console.log('PASS: worker boots, verifies all 14 asset digests, constructs full graph, and sends ready.');

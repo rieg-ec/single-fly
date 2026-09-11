@@ -1,0 +1,191 @@
+{
+  "version": "scut-neural-v2",
+  "dataset": "SCUT-FBP5500 v2.1",
+  "subset": "336 CF adult-source portraits; high and low rating thirds",
+  "train": 200,
+  "validation": 66,
+  "test": 70,
+  "seed": 20260911,
+  "selection": "Choose C and neural feature family using validation accuracy; fixed threshold 0.5; no test-driven tuning.",
+  "selected": "neural-pooled-retina-and-downstream",
+  "neural": {
+    "accuracy": 0.6714285714285714,
+    "correct": 47,
+    "total": 70,
+    "auc": 0.7004081632653061,
+    "confusion": [
+      [
+        25,
+        10
+      ],
+      [
+        13,
+        22
+      ]
+    ],
+    "accuracy95CI": [
+      0.5487808972950418,
+      0.7790506436405533
+    ],
+    "likes": 32,
+    "passes": 38
+  },
+  "alwaysLike": {
+    "accuracy": 0.5,
+    "correct": 35,
+    "total": 70,
+    "auc": 0.5,
+    "confusion": [
+      [
+        0,
+        35
+      ],
+      [
+        0,
+        35
+      ]
+    ],
+    "accuracy95CI": [
+      0.3780183471267758,
+      0.6219816528732242
+    ],
+    "likes": 70,
+    "passes": 0
+  },
+  "rawDNp20": {
+    "accuracy": 0.5,
+    "correct": 35,
+    "total": 70,
+    "auc": 0.5,
+    "confusion": [
+      [
+        1,
+        34
+      ],
+      [
+        1,
+        34
+      ]
+    ],
+    "accuracy95CI": [
+      0.3780183471267758,
+      0.6219816528732242
+    ],
+    "likes": 68,
+    "passes": 2
+  },
+  "comparisons": {
+    "neural-pooled-retina-and-downstream": {
+      "accuracy": 0.6714285714285714,
+      "correct": 47,
+      "total": 70,
+      "auc": 0.7004081632653061,
+      "confusion": [
+        [
+          25,
+          10
+        ],
+        [
+          13,
+          22
+        ]
+      ],
+      "accuracy95CI": [
+        0.5487808972950418,
+        0.7790506436405533
+      ],
+      "likes": 32,
+      "passes": 38,
+      "validationAccuracy": 0.6515151515151515,
+      "C": 1.0
+    },
+    "neural-downstream-only": {
+      "accuracy": 0.6142857142857143,
+      "correct": 43,
+      "total": 70,
+      "auc": 0.5795918367346939,
+      "confusion": [
+        [
+          23,
+          12
+        ],
+        [
+          15,
+          20
+        ]
+      ],
+      "accuracy95CI": [
+        0.4902994257044998,
+        0.7282799549301651
+      ],
+      "likes": 32,
+      "passes": 38,
+      "validationAccuracy": 0.5757575757575758,
+      "C": 0.01
+    },
+    "pixels-8x8": {
+      "accuracy": 0.8,
+      "correct": 56,
+      "total": 70,
+      "auc": 0.8081632653061225,
+      "confusion": [
+        [
+          27,
+          8
+        ],
+        [
+          6,
+          29
+        ]
+      ],
+      "accuracy95CI": [
+        0.6872643461042035,
+        0.886119637967692
+      ],
+      "likes": 37,
+      "passes": 33,
+      "validationAccuracy": 0.696969696969697,
+      "C": 1.0
+    },
+    "brightness-contrast-symmetry-edges": {
+      "accuracy": 0.6714285714285714,
+      "correct": 47,
+      "total": 70,
+      "auc": 0.7314285714285714,
+      "confusion": [
+        [
+          24,
+          11
+        ],
+        [
+          12,
+          23
+        ]
+      ],
+      "accuracy95CI": [
+        0.5487808972950418,
+        0.7790506436405533
+      ],
+      "likes": 34,
+      "passes": 36,
+      "validationAccuracy": 0.6363636363636364,
+      "C": 0.1
+    }
+  },
+  "limitations": [
+    "Small, demographically narrow adult-source sample; subjective ratings.",
+    "Photo-disjoint split; source lacks reliable identity IDs, so identity independence is not guaranteed.",
+    "Middle rating third excluded; results do not establish performance on ambiguous or everyday dating photos.",
+    "Readout weights learn; connectome weights remain fixed.",
+    "Test results are offline; this page runs the frozen model on held-out images."
+  ],
+  "shuffledLabels": {
+    "runs": 100,
+    "meanAccuracy": 0.49642857142857144,
+    "range95": [
+      0.4,
+      0.6285714285714286
+    ],
+    "fractionAtLeastObserved": 0.009900990099009901
+  }
+}

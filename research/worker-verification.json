@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "portraits": 70,
+  "exactScoreMatches": true,
+  "orderInvariant": true,
+  "identityAliasInvariant": true,
+  "likes": 32,
+  "passes": 38,
+  "zeroActivityScore": 0.048368766181502404,
+  "worker": "public/brain/worker.mjs",
+  "model": "scut-neural-v2"
+}

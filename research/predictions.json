@@ -1,0 +1,2354 @@
+[
+  {
+    "id": "CF100",
+    "split": "test",
+    "label": 0,
+    "score": 0.0015062256863560425,
+    "prediction": 0
+  },
+  {
+    "id": "CF101",
+    "split": "train",
+    "label": 0,
+    "score": 0.1154620520431786,
+    "prediction": 0
+  },
+  {
+    "id": "CF102",
+    "split": "train",
+    "label": 1,
+    "score": 0.9520032154626125,
+    "prediction": 1
+  },
+  {
+    "id": "CF104",
+    "split": "train",
+    "label": 0,
+    "score": 0.02479630071956642,
+    "prediction": 0
+  },
+  {
+    "id": "CF108",
+    "split": "train",
+    "label": 0,
+    "score": 0.018621086775694903,
+    "prediction": 0
+  },
+  {
+    "id": "CF109",
+    "split": "train",
+    "label": 0,
+    "score": 0.029363672376640733,
+    "prediction": 0
+  },
+  {
+    "id": "CF111",
+    "split": "validation",
+    "label": 1,
+    "score": 0.9999086326472688,
+    "prediction": 1
+  },
+  {
+    "id": "CF114",
+    "split": "train",
+    "label": 0,
+    "score": 0.0011598951041861501,
+    "prediction": 0
+  },
+  {
+    "id": "CF117",
+    "split": "train",
+    "label": 0,
+    "score": 0.13933226174056107,
+    "prediction": 0
+  },
+  {
+    "id": "CF118",
+    "split": "validation",
+    "label": 0,
+    "score": 0.49267643646491294,
+    "prediction": 0
+  },
+  {
+    "id": "CF119",
+    "split": "test",
+    "label": 0,
+    "score": 0.00018394987190156962,
+    "prediction": 0
+  },
+  {
+    "id": "CF120",
+    "split": "train",
+    "label": 0,
+    "score": 0.03193012098586364,
+    "prediction": 0
+  },
+  {
+    "id": "CF121",
+    "split": "train",
+    "label": 0,
+    "score": 0.0023010304993056237,
+    "prediction": 0
+  },
+  {
+    "id": "CF122",
+    "split": "train",
+    "label": 1,
+    "score": 0.9996113090778247,
+    "prediction": 1
+  },
+  {
+    "id": "CF124",
+    "split": "validation",
+    "label": 1,
+    "score": 0.14371976222408475,
+    "prediction": 0
+  },
+  {
+    "id": "CF125",
+    "split": "validation",
+    "label": 1,
+    "score": 0.9771669085255382,
+    "prediction": 1
+  },
+  {
+    "id": "CF129",
+    "split": "train",
+    "label": 0,
+    "score": 0.0995986687615427,
+    "prediction": 0
+  },
+  {
+    "id": "CF130",
+    "split": "train",
+    "label": 1,
+    "score": 0.8742350700992431,
+    "prediction": 1
+  },
+  {
+    "id": "CF131",
+    "split": "train",
+    "label": 1,
+    "score": 0.9907976094406613,
+    "prediction": 1
+  },
+  {
+    "id": "CF133",
+    "split": "train",
+    "label": 1,
+    "score": 0.9748597476523695,
+    "prediction": 1
+  },
+  {
+    "id": "CF135",
+    "split": "validation",
+    "label": 0,
+    "score": 1.677672000096259e-05,
+    "prediction": 0
+  },
+  {
+    "id": "CF136",
+    "split": "train",
+    "label": 0,
+    "score": 0.0552146839176877,
+    "prediction": 0
+  },
+  {
+    "id": "CF137",
+    "split": "train",
+    "label": 1,
+    "score": 0.9614645504740003,
+    "prediction": 1
+  },
+  {
+    "id": "CF138",
+    "split": "train",
+    "label": 0,
+    "score": 7.987315742198876e-06,
+    "prediction": 0
+  },
+  {
+    "id": "CF139",
+    "split": "test",
+    "label": 0,
+    "score": 0.37993470049065114,
+    "prediction": 0
+  },
+  {
+    "id": "CF141",
+    "split": "train",
+    "label": 1,
+    "score": 0.8958554705640901,
+    "prediction": 1
+  },
+  {
+    "id": "CF142",
+    "split": "train",
+    "label": 0,
+    "score": 0.0012040776516840138,
+    "prediction": 0
+  },
+  {
+    "id": "CF143",
+    "split": "train",
+    "label": 1,
+    "score": 0.8592046963580219,
+    "prediction": 1
+  },
+  {
+    "id": "CF145",
+    "split": "validation",
+    "label": 0,
+    "score": 0.24506681067302322,
+    "prediction": 0
+  },
+  {
+    "id": "CF146",
+    "split": "train",
+    "label": 1,
+    "score": 0.9839237220651846,
+    "prediction": 1
+  },
+  {
+    "id": "CF147",
+    "split": "test",
+    "label": 0,
+    "score": 0.7424758832211502,
+    "prediction": 1
+  },
+  {
+    "id": "CF148",
+    "split": "train",
+    "label": 0,
+    "score": 0.00016032739064048137,
+    "prediction": 0
+  },
+  {
+    "id": "CF150",
+    "split": "train",
+    "label": 1,
+    "score": 0.9848984423575606,
+    "prediction": 1
+  },
+  {
+    "id": "CF152",
+    "split": "train",
+    "label": 0,
+    "score": 0.03447360006604796,
+    "prediction": 0
+  },
+  {
+    "id": "CF153",
+    "split": "validation",
+    "label": 1,
+    "score": 0.7908069367014106,
+    "prediction": 1
+  },
+  {
+    "id": "CF154",
+    "split": "train",
+    "label": 0,
+    "score": 0.05478032002201785,
+    "prediction": 0
+  },
+  {
+    "id": "CF155",
+    "split": "validation",
+    "label": 0,
+    "score": 0.12610090240602911,
+    "prediction": 0
+  },
+  {
+    "id": "CF156",
+    "split": "train",
+    "label": 1,
+    "score": 0.9603961610143954,
+    "prediction": 1
+  },
+  {
+    "id": "CF158",
+    "split": "validation",
+    "label": 0,
+    "score": 0.11509427118703144,
+    "prediction": 0
+  },
+  {
+    "id": "CF159",
+    "split": "test",
+    "label": 0,
+    "score": 0.028271974429549422,
+    "prediction": 0
+  },
+  {
+    "id": "CF160",
+    "split": "train",
+    "label": 0,
+    "score": 0.0008401288810675716,
+    "prediction": 0
+  },
+  {
+    "id": "CF161",
+    "split": "validation",
+    "label": 0,
+    "score": 0.0015286310250674203,
+    "prediction": 0
+  },
+  {
+    "id": "CF162",
+    "split": "validation",
+    "label": 0,
+    "score": 0.9424730323693167,
+    "prediction": 1
+  },
+  {
+    "id": "CF163",
+    "split": "test",
+    "label": 1,
+    "score": 0.7158358895454869,
+    "prediction": 1
+  },
+  {
+    "id": "CF164",
+    "split": "train",
+    "label": 0,
+    "score": 0.0829536951228637,
+    "prediction": 0
+  },
+  {
+    "id": "CF165",
+    "split": "train",
+    "label": 0,
+    "score": 0.07251789576725566,
+    "prediction": 0
+  },
+  {
+    "id": "CF166",
+    "split": "test",
+    "label": 0,
+    "score": 0.07609078123907456,
+    "prediction": 0
+  },
+  {
+    "id": "CF167",
+    "split": "test",
+    "label": 1,
+    "score": 0.9355865016611261,
+    "prediction": 1
+  },
+  {
+    "id": "CF168",
+    "split": "validation",
+    "label": 1,
+    "score": 0.9789245446995866,
+    "prediction": 1
+  },
+  {
+    "id": "CF170",
+    "split": "train",
+    "label": 0,
+    "score": 0.01986161061331023,
+    "prediction": 0
+  },
+  {
+    "id": "CF171",
+    "split": "validation",
+    "label": 0,
+    "score": 0.9319091048783643,
+    "prediction": 1
+  },
+  {
+    "id": "CF172",
+    "split": "train",
+    "label": 1,
+    "score": 0.8646457272415672,
+    "prediction": 1
+  },
+  {
+    "id": "CF174",
+    "split": "train",
+    "label": 1,
+    "score": 0.8862024929723211,
+    "prediction": 1
+  },
+  {
+    "id": "CF179",
+    "split": "train",
+    "label": 0,
+    "score": 0.12548733086892283,
+    "prediction": 0
+  },
+  {
+    "id": "CF180",
+    "split": "test",
+    "label": 1,
+    "score": 0.002888780790780261,
+    "prediction": 0
+  },
+  {
+    "id": "CF186",
+    "split": "train",
+    "label": 0,
+    "score": 0.0005191599568854156,
+    "prediction": 0
+  },
+  {
+    "id": "CF187",
+    "split": "test",
+    "label": 0,
+    "score": 0.11435660448101642,
+    "prediction": 0
+  },
+  {
+    "id": "CF188",
+    "split": "test",
+    "label": 1,
+    "score": 0.12977339118909512,
+    "prediction": 0
+  },
+  {
+    "id": "CF189",
+    "split": "validation",
+    "label": 1,
+    "score": 0.2902805623021122,
+    "prediction": 0
+  },
+  {
+    "id": "CF190",
+    "split": "train",
+    "label": 0,
+    "score": 0.0015502236994491846,
+    "prediction": 0
+  },
+  {
+    "id": "CF191",
+    "split": "train",
+    "label": 0,
+    "score": 0.07956585319229423,
+    "prediction": 0
+  },
+  {
+    "id": "CF193",
+    "split": "test",
+    "label": 1,
+    "score": 0.3233243060250808,
+    "prediction": 0
+  },
+  {
+    "id": "CF198",
+    "split": "train",
+    "label": 0,
+    "score": 0.11612397969684957,
+    "prediction": 0
+  },
+  {
+    "id": "CF199",
+    "split": "train",
+    "label": 0,
+    "score": 0.003931797213090486,
+    "prediction": 0
+  },
+  {
+    "id": "CF201",
+    "split": "test",
+    "label": 1,
+    "score": 0.6233772676726077,
+    "prediction": 1
+  },
+  {
+    "id": "CF203",
+    "split": "train",
+    "label": 0,
+    "score": 1.0185832307588867e-05,
+    "prediction": 0
+  },
+  {
+    "id": "CF204",
+    "split": "validation",
+    "label": 1,
+    "score": 0.9999919783757043,
+    "prediction": 1
+  },
+  {
+    "id": "CF205",
+    "split": "test",
+    "label": 0,
+    "score": 0.028817642586047326,
+    "prediction": 0
+  },
+  {
+    "id": "CF206",
+    "split": "train",
+    "label": 0,
+    "score": 0.0842070075620444,
+    "prediction": 0
+  },
+  {
+    "id": "CF207",
+    "split": "train",
+    "label": 0,
+    "score": 0.07330072732760005,
+    "prediction": 0
+  },
+  {
+    "id": "CF209",
+    "split": "train",
+    "label": 1,
+    "score": 0.925020808114959,
+    "prediction": 1
+  },
+  {
+    "id": "CF211",
+    "split": "train",
+    "label": 0,
+    "score": 0.05420710108986214,
+    "prediction": 0
+  },
+  {
+    "id": "CF212",
+    "split": "train",
+    "label": 0,
+    "score": 0.09457281528884275,
+    "prediction": 0
+  },
+  {
+    "id": "CF214",
+    "split": "validation",
+    "label": 0,
+    "score": 0.8967516466369592,
+    "prediction": 1
+  },
+  {
+    "id": "CF215",
+    "split": "test",
+    "label": 1,
+    "score": 0.9675398421043767,
+    "prediction": 1
+  },
+  {
+    "id": "CF218",
+    "split": "train",
+    "label": 1,
+    "score": 0.9042710018178274,
+    "prediction": 1
+  },
+  {
+    "id": "CF219",
+    "split": "test",
+    "label": 0,
+    "score": 0.7543680330865727,
+    "prediction": 1
+  },
+  {
+    "id": "CF220",
+    "split": "train",
+    "label": 1,
+    "score": 0.9996913507461693,
+    "prediction": 1
+  },
+  {
+    "id": "CF223",
+    "split": "validation",
+    "label": 0,
+    "score": 0.00011312549289783217,
+    "prediction": 0
+  },
+  {
+    "id": "CF225",
+    "split": "test",
+    "label": 1,
+    "score": 0.9748043381780854,
+    "prediction": 1
+  },
+  {
+    "id": "CF232",
+    "split": "train",
+    "label": 1,
+    "score": 0.9394278144493792,
+    "prediction": 1
+  },
+  {
+    "id": "CF233",
+    "split": "validation",
+    "label": 1,
+    "score": 0.8956904623358651,
+    "prediction": 1
+  },
+  {
+    "id": "CF234",
+    "split": "train",
+    "label": 0,
+    "score": 0.1530473263504305,
+    "prediction": 0
+  },
+  {
+    "id": "CF235",
+    "split": "train",
+    "label": 1,
+    "score": 0.975843516149234,
+    "prediction": 1
+  },
+  {
+    "id": "CF236",
+    "split": "test",
+    "label": 0,
+    "score": 0.0033424404217172756,
+    "prediction": 0
+  },
+  {
+    "id": "CF237",
+    "split": "validation",
+    "label": 1,
+    "score": 0.004016762232495386,
+    "prediction": 0
+  },
+  {
+    "id": "CF238",
+    "split": "train",
+    "label": 0,
+    "score": 0.016542025942736925,
+    "prediction": 0
+  },
+  {
+    "id": "CF241",
+    "split": "validation",
+    "label": 0,
+    "score": 0.4181516489101171,
+    "prediction": 0
+  },
+  {
+    "id": "CF242",
+    "split": "train",
+    "label": 1,
+    "score": 0.9835319790477322,
+    "prediction": 1
+  },
+  {
+    "id": "CF243",
+    "split": "validation",
+    "label": 1,
+    "score": 0.4077398098560817,
+    "prediction": 0
+  },
+  {
+    "id": "CF244",
+    "split": "test",
+    "label": 1,
+    "score": 0.009980859478274531,
+    "prediction": 0
+  },
+  {
+    "id": "CF245",
+    "split": "train",
+    "label": 0,
+    "score": 0.200439918698056,
+    "prediction": 0
+  },
+  {
+    "id": "CF246",
+    "split": "train",
+    "label": 1,
+    "score": 0.9825732944531586,
+    "prediction": 1
+  },
+  {
+    "id": "CF247",
+    "split": "train",
+    "label": 0,
+    "score": 0.10168851994540372,
+    "prediction": 0
+  },
+  {
+    "id": "CF248",
+    "split": "train",
+    "label": 0,
+    "score": 0.014043426208664805,
+    "prediction": 0
+  },
+  {
+    "id": "CF251",
+    "split": "train",
+    "label": 0,
+    "score": 0.054508972545083266,
+    "prediction": 0
+  },
+  {
+    "id": "CF252",
+    "split": "test",
+    "label": 1,
+    "score": 0.012010480352787033,
+    "prediction": 0
+  },
+  {
+    "id": "CF253",
+    "split": "train",
+    "label": 1,
+    "score": 0.9154374718807088,
+    "prediction": 1
+  },
+  {
+    "id": "CF254",
+    "split": "train",
+    "label": 1,
+    "score": 0.9647159583463004,
+    "prediction": 1
+  },
+  {
+    "id": "CF255",
+    "split": "train",
+    "label": 0,
+    "score": 0.1296410870922635,
+    "prediction": 0
+  },
+  {
+    "id": "CF256",
+    "split": "test",
+    "label": 0,
+    "score": 0.012008228678756245,
+    "prediction": 0
+  },
+  {
+    "id": "CF257",
+    "split": "train",
+    "label": 1,
+    "score": 0.9034982474484128,
+    "prediction": 1
+  },
+  {
+    "id": "CF258",
+    "split": "test",
+    "label": 1,
+    "score": 0.07070511587088373,
+    "prediction": 0
+  },
+  {
+    "id": "CF259",
+    "split": "train",
+    "label": 1,
+    "score": 0.9386965121680007,
+    "prediction": 1
+  },
+  {
+    "id": "CF261",
+    "split": "validation",
+    "label": 1,
+    "score": 0.9997985855991023,
+    "prediction": 1
+  },
+  {
+    "id": "CF263",
+    "split": "validation",
+    "label": 0,
+    "score": 0.4195159013277896,
+    "prediction": 0
+  },
+  {
+    "id": "CF264",
+    "split": "train",
+    "label": 0,
+    "score": 0.013655695036439625,
+    "prediction": 0
+  },
+  {
+    "id": "CF265",
+    "split": "train",
+    "label": 0,
+    "score": 0.0511952250835009,
+    "prediction": 0
+  },
+  {
+    "id": "CF268",
+    "split": "validation",
+    "label": 1,
+    "score": 0.8143671081282109,
+    "prediction": 1
+  },
+  {
+    "id": "CF269",
+    "split": "validation",
+    "label": 1,
+    "score": 0.8463361053538939,
+    "prediction": 1
+  },
+  {
+    "id": "CF270",
+    "split": "validation",
+    "label": 1,
+    "score": 0.002062180143797799,
+    "prediction": 0
+  },
+  {
+    "id": "CF272",
+    "split": "train",
+    "label": 1,
+    "score": 0.9444653488704562,
+    "prediction": 1
+  },
+  {
+    "id": "CF275",
+    "split": "train",
+    "label": 1,
+    "score": 0.9752392106802623,
+    "prediction": 1
+  },
+  {
+    "id": "CF277",
+    "split": "train",
+    "label": 0,
+    "score": 0.02330697109903986,
+    "prediction": 0
+  },
+  {
+    "id": "CF279",
+    "split": "test",
+    "label": 1,
+    "score": 0.9647718121778989,
+    "prediction": 1
+  },
+  {
+    "id": "CF280",
+    "split": "train",
+    "label": 0,
+    "score": 0.05778912125686411,
+    "prediction": 0
+  },
+  {
+    "id": "CF281",
+    "split": "train",
+    "label": 0,
+    "score": 0.08793864020497949,
+    "prediction": 0
+  },
+  {
+    "id": "CF282",
+    "split": "train",
+    "label": 1,
+    "score": 0.7858872666778387,
+    "prediction": 1
+  },
+  {
+    "id": "CF284",
+    "split": "validation",
+    "label": 1,
+    "score": 0.1499600282301523,
+    "prediction": 0
+  },
+  {
+    "id": "CF288",
+    "split": "validation",
+    "label": 1,
+    "score": 0.002294393482584696,
+    "prediction": 0
+  },
+  {
+    "id": "CF289",
+    "split": "train",
+    "label": 1,
+    "score": 0.9203261282020313,
+    "prediction": 1
+  },
+  {
+    "id": "CF291",
+    "split": "train",
+    "label": 1,
+    "score": 0.9554570845537051,
+    "prediction": 1
+  },
+  {
+    "id": "CF292",
+    "split": "train",
+    "label": 0,
+    "score": 0.05376634377081048,
+    "prediction": 0
+  },
+  {
+    "id": "CF293",
+    "split": "train",
+    "label": 1,
+    "score": 0.9837614335520576,
+    "prediction": 1
+  },
+  {
+    "id": "CF295",
+    "split": "validation",
+    "label": 1,
+    "score": 0.9620221917394416,
+    "prediction": 1
+  },
+  {
+    "id": "CF296",
+    "split": "test",
+    "label": 1,
+    "score": 0.9091004478755992,
+    "prediction": 1
+  },
+  {
+    "id": "CF297",
+    "split": "train",
+    "label": 0,
+    "score": 0.14121019789698444,
+    "prediction": 0
+  },
+  {
+    "id": "CF298",
+    "split": "train",
+    "label": 1,
+    "score": 0.9366853795517995,
+    "prediction": 1
+  },
+  {
+    "id": "CF299",
+    "split": "train",
+    "label": 1,
+    "score": 0.9928344030269786,
+    "prediction": 1
+  },
+  {
+    "id": "CF30",
+    "split": "validation",
+    "label": 1,
+    "score": 0.9178478323191009,
+    "prediction": 1
+  },
+  {
+    "id": "CF300",
+    "split": "validation",
+    "label": 0,
+    "score": 0.2195778973382044,
+    "prediction": 0
+  },
+  {
+    "id": "CF301",
+    "split": "train",
+    "label": 1,
+    "score": 0.9846761938289821,
+    "prediction": 1
+  },
+  {
+    "id": "CF304",
+    "split": "train",
+    "label": 1,
+    "score": 0.955572024742728,
+    "prediction": 1
+  },
+  {
+    "id": "CF305",
+    "split": "train",
+    "label": 1,
+    "score": 0.976283594885294,
+    "prediction": 1
+  },
+  {
+    "id": "CF307",
+    "split": "train",
+    "label": 1,
+    "score": 0.9993431643215559,
+    "prediction": 1
+  },
+  {
+    "id": "CF308",
+    "split": "train",
+    "label": 0,
+    "score": 0.031794351953900256,
+    "prediction": 0
+  },
+  {
+    "id": "CF309",
+    "split": "train",
+    "label": 1,
+    "score": 0.999927073145785,
+    "prediction": 1
+  },
+  {
+    "id": "CF313",
+    "split": "train",
+    "label": 0,
+    "score": 0.0008367746814932863,
+    "prediction": 0
+  },
+  {
+    "id": "CF314",
+    "split": "test",
+    "label": 0,
+    "score": 0.9998811779823732,
+    "prediction": 1
+  },
+  {
+    "id": "CF316",
+    "split": "train",
+    "label": 1,
+    "score": 0.9972530287784526,
+    "prediction": 1
+  },
+  {
+    "id": "CF317",
+    "split": "test",
+    "label": 1,
+    "score": 0.16986601889188754,
+    "prediction": 0
+  },
+  {
+    "id": "CF318",
+    "split": "train",
+    "label": 0,
+    "score": 0.07753736441063051,
+    "prediction": 0
+  },
+  {
+    "id": "CF32",
+    "split": "train",
+    "label": 0,
+    "score": 0.14273577886780736,
+    "prediction": 0
+  },
+  {
+    "id": "CF320",
+    "split": "train",
+    "label": 0,
+    "score": 0.020526574803885027,
+    "prediction": 0
+  },
+  {
+    "id": "CF321",
+    "split": "train",
+    "label": 0,
+    "score": 0.034750246321648755,
+    "prediction": 0
+  },
+  {
+    "id": "CF322",
+    "split": "test",
+    "label": 0,
+    "score": 0.17248293909485118,
+    "prediction": 0
+  },
+  {
+    "id": "CF324",
+    "split": "train",
+    "label": 0,
+    "score": 0.039179583781554665,
+    "prediction": 0
+  },
+  {
+    "id": "CF325",
+    "split": "train",
+    "label": 1,
+    "score": 0.9630437773606807,
+    "prediction": 1
+  },
+  {
+    "id": "CF326",
+    "split": "test",
+    "label": 1,
+    "score": 0.9895682160449749,
+    "prediction": 1
+  },
+  {
+    "id": "CF328",
+    "split": "train",
+    "label": 1,
+    "score": 0.9982971961961048,
+    "prediction": 1
+  },
+  {
+    "id": "CF329",
+    "split": "validation",
+    "label": 1,
+    "score": 0.5779533571439175,
+    "prediction": 1
+  },
+  {
+    "id": "CF33",
+    "split": "train",
+    "label": 1,
+    "score": 0.9523376343505858,
+    "prediction": 1
+  },
+  {
+    "id": "CF330",
+    "split": "test",
+    "label": 0,
+    "score": 0.575520393228459,
+    "prediction": 1
+  },
+  {
+    "id": "CF331",
+    "split": "validation",
+    "label": 0,
+    "score": 0.0021438304257342658,
+    "prediction": 0
+  },
+  {
+    "id": "CF333",
+    "split": "train",
+    "label": 0,
+    "score": 0.043477102694737306,
+    "prediction": 0
+  },
+  {
+    "id": "CF334",
+    "split": "train",
+    "label": 0,
+    "score": 5.4752467827429316e-05,
+    "prediction": 0
+  },
+  {
+    "id": "CF335",
+    "split": "train",
+    "label": 1,
+    "score": 0.9927655277045409,
+    "prediction": 1
+  },
+  {
+    "id": "CF339",
+    "split": "test",
+    "label": 1,
+    "score": 0.9999983386806977,
+    "prediction": 1
+  },
+  {
+    "id": "CF340",
+    "split": "test",
+    "label": 0,
+    "score": 0.3497067887604955,
+    "prediction": 0
+  },
+  {
+    "id": "CF341",
+    "split": "train",
+    "label": 1,
+    "score": 0.9514712766795521,
+    "prediction": 1
+  },
+  {
+    "id": "CF342",
+    "split": "train",
+    "label": 1,
+    "score": 0.769228876196606,
+    "prediction": 1
+  },
+  {
+    "id": "CF343",
+    "split": "test",
+    "label": 1,
+    "score": 0.8325022278499289,
+    "prediction": 1
+  },
+  {
+    "id": "CF344",
+    "split": "train",
+    "label": 1,
+    "score": 0.9824795258103133,
+    "prediction": 1
+  },
+  {
+    "id": "CF345",
+    "split": "train",
+    "label": 0,
+    "score": 0.003064548699373376,
+    "prediction": 0
+  },
+  {
+    "id": "CF347",
+    "split": "train",
+    "label": 1,
+    "score": 0.9320854737854469,
+    "prediction": 1
+  },
+  {
+    "id": "CF348",
+    "split": "validation",
+    "label": 0,
+    "score": 0.9711913869911075,
+    "prediction": 1
+  },
+  {
+    "id": "CF350",
+    "split": "train",
+    "label": 0,
+    "score": 0.0418286017154372,
+    "prediction": 0
+  },
+  {
+    "id": "CF351",
+    "split": "train",
+    "label": 0,
+    "score": 1.5779459723005856e-06,
+    "prediction": 0
+  },
+  {
+    "id": "CF352",
+    "split": "test",
+    "label": 0,
+    "score": 0.03701446481119479,
+    "prediction": 0
+  },
+  {
+    "id": "CF353",
+    "split": "train",
+    "label": 1,
+    "score": 0.9676049107525744,
+    "prediction": 1
+  },
+  {
+    "id": "CF354",
+    "split": "test",
+    "label": 0,
+    "score": 0.9998786850840201,
+    "prediction": 1
+  },
+  {
+    "id": "CF355",
+    "split": "train",
+    "label": 0,
+    "score": 0.12097953175191696,
+    "prediction": 0
+  },
+  {
+    "id": "CF357",
+    "split": "test",
+    "label": 1,
+    "score": 0.9993469116005507,
+    "prediction": 1
+  },
+  {
+    "id": "CF358",
+    "split": "train",
+    "label": 1,
+    "score": 0.980620700843513,
+    "prediction": 1
+  },
+  {
+    "id": "CF360",
+    "split": "validation",
+    "label": 0,
+    "score": 5.67431179217268e-05,
+    "prediction": 0
+  },
+  {
+    "id": "CF362",
+    "split": "train",
+    "label": 1,
+    "score": 0.8987097931828488,
+    "prediction": 1
+  },
+  {
+    "id": "CF363",
+    "split": "train",
+    "label": 1,
+    "score": 0.9905833335887613,
+    "prediction": 1
+  },
+  {
+    "id": "CF364",
+    "split": "train",
+    "label": 1,
+    "score": 0.9303564132509341,
+    "prediction": 1
+  },
+  {
+    "id": "CF365",
+    "split": "validation",
+    "label": 1,
+    "score": 0.9572917318009355,
+    "prediction": 1
+  },
+  {
+    "id": "CF367",
+    "split": "train",
+    "label": 1,
+    "score": 0.8266697119721905,
+    "prediction": 1
+  },
+  {
+    "id": "CF369",
+    "split": "validation",
+    "label": 0,
+    "score": 0.4531435172692141,
+    "prediction": 0
+  },
+  {
+    "id": "CF37",
+    "split": "train",
+    "label": 0,
+    "score": 0.1397089471437009,
+    "prediction": 0
+  },
+  {
+    "id": "CF370",
+    "split": "train",
+    "label": 1,
+    "score": 0.9221246620513018,
+    "prediction": 1
+  },
+  {
+    "id": "CF372",
+    "split": "train",
+    "label": 1,
+    "score": 0.8906985572121081,
+    "prediction": 1
+  },
+  {
+    "id": "CF373",
+    "split": "train",
+    "label": 0,
+    "score": 0.016998581245818878,
+    "prediction": 0
+  },
+  {
+    "id": "CF374",
+    "split": "train",
+    "label": 1,
+    "score": 0.9998403745827744,
+    "prediction": 1
+  },
+  {
+    "id": "CF376",
+    "split": "train",
+    "label": 0,
+    "score": 0.08407811456183976,
+    "prediction": 0
+  },
+  {
+    "id": "CF377",
+    "split": "train",
+    "label": 1,
+    "score": 0.9946321874677293,
+    "prediction": 1
+  },
+  {
+    "id": "CF378",
+    "split": "validation",
+    "label": 0,
+    "score": 0.004622627716566577,
+    "prediction": 0
+  },
+  {
+    "id": "CF379",
+    "split": "train",
+    "label": 1,
+    "score": 0.999999409716066,
+    "prediction": 1
+  },
+  {
+    "id": "CF381",
+    "split": "test",
+    "label": 0,
+    "score": 0.42272659381548466,
+    "prediction": 0
+  },
+  {
+    "id": "CF382",
+    "split": "test",
+    "label": 0,
+    "score": 0.9878018455936676,
+    "prediction": 1
+  },
+  {
+    "id": "CF383",
+    "split": "validation",
+    "label": 1,
+    "score": 0.02130157416868835,
+    "prediction": 0
+  },
+  {
+    "id": "CF385",
+    "split": "train",
+    "label": 1,
+    "score": 0.9414573230968599,
+    "prediction": 1
+  },
+  {
+    "id": "CF386",
+    "split": "test",
+    "label": 1,
+    "score": 0.06286807637483677,
+    "prediction": 0
+  },
+  {
+    "id": "CF387",
+    "split": "train",
+    "label": 0,
+    "score": 0.16495928032388302,
+    "prediction": 0
+  },
+  {
+    "id": "CF388",
+    "split": "train",
+    "label": 1,
+    "score": 0.9733880277632997,
+    "prediction": 1
+  },
+  {
+    "id": "CF389",
+    "split": "train",
+    "label": 0,
+    "score": 0.064784547005593,
+    "prediction": 0
+  },
+  {
+    "id": "CF39",
+    "split": "test",
+    "label": 0,
+    "score": 0.6819451281721624,
+    "prediction": 1
+  },
+  {
+    "id": "CF391",
+    "split": "test",
+    "label": 1,
+    "score": 0.27917553079059754,
+    "prediction": 0
+  },
+  {
+    "id": "CF392",
+    "split": "validation",
+    "label": 1,
+    "score": 0.15574802583175265,
+    "prediction": 0
+  },
+  {
+    "id": "CF393",
+    "split": "train",
+    "label": 1,
+    "score": 0.9735007293696288,
+    "prediction": 1
+  },
+  {
+    "id": "CF396",
+    "split": "train",
+    "label": 1,
+    "score": 0.9547210156194056,
+    "prediction": 1
+  },
+  {
+    "id": "CF398",
+    "split": "validation",
+    "label": 1,
+    "score": 0.9988030295425527,
+    "prediction": 1
+  },
+  {
+    "id": "CF399",
+    "split": "train",
+    "label": 1,
+    "score": 0.8867698071232304,
+    "prediction": 1
+  },
+  {
+    "id": "CF40",
+    "split": "train",
+    "label": 1,
+    "score": 0.9999992181041294,
+    "prediction": 1
+  },
+  {
+    "id": "CF400",
+    "split": "test",
+    "label": 1,
+    "score": 0.9865043239016349,
+    "prediction": 1
+  },
+  {
+    "id": "CF402",
+    "split": "validation",
+    "label": 0,
+    "score": 0.07308350525505157,
+    "prediction": 0
+  },
+  {
+    "id": "CF403",
+    "split": "train",
+    "label": 0,
+    "score": 0.03251621446790458,
+    "prediction": 0
+  },
+  {
+    "id": "CF404",
+    "split": "validation",
+    "label": 0,
+    "score": 0.9809325049797701,
+    "prediction": 1
+  },
+  {
+    "id": "CF405",
+    "split": "validation",
+    "label": 1,
+    "score": 0.5480922844662269,
+    "prediction": 1
+  },
+  {
+    "id": "CF406",
+    "split": "train",
+    "label": 0,
+    "score": 0.09951187247324009,
+    "prediction": 0
+  },
+  {
+    "id": "CF408",
+    "split": "train",
+    "label": 1,
+    "score": 0.931783082280138,
+    "prediction": 1
+  },
+  {
+    "id": "CF41",
+    "split": "test",
+    "label": 0,
+    "score": 0.14717400471296352,
+    "prediction": 0
+  },
+  {
+    "id": "CF411",
+    "split": "test",
+    "label": 1,
+    "score": 0.9999981329088091,
+    "prediction": 1
+  },
+  {
+    "id": "CF412",
+    "split": "train",
+    "label": 0,
+    "score": 0.1609640899080453,
+    "prediction": 0
+  },
+  {
+    "id": "CF414",
+    "split": "validation",
+    "label": 0,
+    "score": 0.9999195518214192,
+    "prediction": 1
+  },
+  {
+    "id": "CF416",
+    "split": "test",
+    "label": 0,
+    "score": 0.7360809889667221,
+    "prediction": 1
+  },
+  {
+    "id": "CF419",
+    "split": "train",
+    "label": 0,
+    "score": 0.0031418526423388562,
+    "prediction": 0
+  },
+  {
+    "id": "CF42",
+    "split": "train",
+    "label": 1,
+    "score": 0.8406408877278977,
+    "prediction": 1
+  },
+  {
+    "id": "CF420",
+    "split": "test",
+    "label": 1,
+    "score": 0.9990420317533513,
+    "prediction": 1
+  },
+  {
+    "id": "CF421",
+    "split": "train",
+    "label": 1,
+    "score": 0.7735965079547023,
+    "prediction": 1
+  },
+  {
+    "id": "CF422",
+    "split": "validation",
+    "label": 0,
+    "score": 0.0024727122723564713,
+    "prediction": 0
+  },
+  {
+    "id": "CF423",
+    "split": "train",
+    "label": 1,
+    "score": 0.9266039215286825,
+    "prediction": 1
+  },
+  {
+    "id": "CF424",
+    "split": "train",
+    "label": 1,
+    "score": 0.9145378102590106,
+    "prediction": 1
+  },
+  {
+    "id": "CF426",
+    "split": "train",
+    "label": 1,
+    "score": 0.961313633733336,
+    "prediction": 1
+  },
+  {
+    "id": "CF43",
+    "split": "train",
+    "label": 0,
+    "score": 0.004686446028017275,
+    "prediction": 0
+  },
+  {
+    "id": "CF430",
+    "split": "train",
+    "label": 0,
+    "score": 0.08780672093675003,
+    "prediction": 0
+  },
+  {
+    "id": "CF432",
+    "split": "train",
+    "label": 0,
+    "score": 0.002719527341914551,
+    "prediction": 0
+  },
+  {
+    "id": "CF433",
+    "split": "train",
+    "label": 0,
+    "score": 0.01535628629523879,
+    "prediction": 0
+  },
+  {
+    "id": "CF434",
+    "split": "train",
+    "label": 1,
+    "score": 0.9622017613173839,
+    "prediction": 1
+  },
+  {
+    "id": "CF436",
+    "split": "validation",
+    "label": 1,
+    "score": 0.6274364602839925,
+    "prediction": 1
+  },
+  {
+    "id": "CF438",
+    "split": "train",
+    "label": 0,
+    "score": 0.00308237531094811,
+    "prediction": 0
+  },
+  {
+    "id": "CF440",
+    "split": "test",
+    "label": 1,
+    "score": 0.7483470913352531,
+    "prediction": 1
+  },
+  {
+    "id": "CF443",
+    "split": "train",
+    "label": 0,
+    "score": 0.06499018811644881,
+    "prediction": 0
+  },
+  {
+    "id": "CF444",
+    "split": "train",
+    "label": 0,
+    "score": 0.0826364736517543,
+    "prediction": 0
+  },
+  {
+    "id": "CF445",
+    "split": "validation",
+    "label": 1,
+    "score": 0.050640932398854234,
+    "prediction": 0
+  },
+  {
+    "id": "CF446",
+    "split": "test",
+    "label": 0,
+    "score": 0.5118889351756123,
+    "prediction": 1
+  },
+  {
+    "id": "CF447",
+    "split": "train",
+    "label": 1,
+    "score": 0.9631425987389015,
+    "prediction": 1
+  },
+  {
+    "id": "CF448",
+    "split": "train",
+    "label": 1,
+    "score": 0.9494919273523185,
+    "prediction": 1
+  },
+  {
+    "id": "CF450",
+    "split": "test",
+    "label": 1,
+    "score": 0.8709981694428841,
+    "prediction": 1
+  },
+  {
+    "id": "CF452",
+    "split": "train",
+    "label": 1,
+    "score": 0.9536054142868845,
+    "prediction": 1
+  },
+  {
+    "id": "CF453",
+    "split": "validation",
+    "label": 0,
+    "score": 0.0023142814725003644,
+    "prediction": 0
+  },
+  {
+    "id": "CF454",
+    "split": "train",
+    "label": 0,
+    "score": 1.198957825272925e-05,
+    "prediction": 0
+  },
+  {
+    "id": "CF455",
+    "split": "test",
+    "label": 1,
+    "score": 0.9167785198142013,
+    "prediction": 1
+  },
+  {
+    "id": "CF456",
+    "split": "validation",
+    "label": 1,
+    "score": 0.024241224700069314,
+    "prediction": 0
+  },
+  {
+    "id": "CF46",
+    "split": "train",
+    "label": 0,
+    "score": 0.05023163305946174,
+    "prediction": 0
+  },
+  {
+    "id": "CF462",
+    "split": "validation",
+    "label": 0,
+    "score": 0.017680142567309237,
+    "prediction": 0
+  },
+  {
+    "id": "CF464",
+    "split": "train",
+    "label": 0,
+    "score": 0.00022959649345907266,
+    "prediction": 0
+  },
+  {
+    "id": "CF465",
+    "split": "train",
+    "label": 1,
+    "score": 0.9884233903310484,
+    "prediction": 1
+  },
+  {
+    "id": "CF467",
+    "split": "train",
+    "label": 1,
+    "score": 0.9010144198515297,
+    "prediction": 1
+  },
+  {
+    "id": "CF469",
+    "split": "test",
+    "label": 0,
+    "score": 2.3919513504139224e-05,
+    "prediction": 0
+  },
+  {
+    "id": "CF47",
+    "split": "train",
+    "label": 1,
+    "score": 0.8964841531443822,
+    "prediction": 1
+  },
+  {
+    "id": "CF470",
+    "split": "train",
+    "label": 1,
+    "score": 0.9128712531891131,
+    "prediction": 1
+  },
+  {
+    "id": "CF472",
+    "split": "train",
+    "label": 0,
+    "score": 0.07204371503190987,
+    "prediction": 0
+  },
+  {
+    "id": "CF473",
+    "split": "train",
+    "label": 1,
+    "score": 0.9994203715078894,
+    "prediction": 1
+  },
+  {
+    "id": "CF474",
+    "split": "train",
+    "label": 0,
+    "score": 0.027051335566962084,
+    "prediction": 0
+  },
+  {
+    "id": "CF475",
+    "split": "train",
+    "label": 1,
+    "score": 0.9650867793666621,
+    "prediction": 1
+  },
+  {
+    "id": "CF477",
+    "split": "train",
+    "label": 0,
+    "score": 0.12875566021995818,
+    "prediction": 0
+  },
+  {
+    "id": "CF478",
+    "split": "train",
+    "label": 0,
+    "score": 0.08012525786666971,
+    "prediction": 0
+  },
+  {
+    "id": "CF480",
+    "split": "train",
+    "label": 1,
+    "score": 0.9606117754815481,
+    "prediction": 1
+  },
+  {
+    "id": "CF481",
+    "split": "train",
+    "label": 0,
+    "score": 0.007756956093790203,
+    "prediction": 0
+  },
+  {
+    "id": "CF483",
+    "split": "train",
+    "label": 1,
+    "score": 0.8534343880254415,
+    "prediction": 1
+  },
+  {
+    "id": "CF484",
+    "split": "test",
+    "label": 1,
+    "score": 0.8187063478007582,
+    "prediction": 1
+  },
+  {
+    "id": "CF487",
+    "split": "train",
+    "label": 0,
+    "score": 0.12065403721861054,
+    "prediction": 0
+  },
+  {
+    "id": "CF488",
+    "split": "test",
+    "label": 1,
+    "score": 0.013247471587142855,
+    "prediction": 0
+  },
+  {
+    "id": "CF491",
+    "split": "train",
+    "label": 0,
+    "score": 0.09189064400030739,
+    "prediction": 0
+  },
+  {
+    "id": "CF492",
+    "split": "train",
+    "label": 0,
+    "score": 0.030393275068813702,
+    "prediction": 0
+  },
+  {
+    "id": "CF494",
+    "split": "train",
+    "label": 0,
+    "score": 0.10808144859710778,
+    "prediction": 0
+  },
+  {
+    "id": "CF495",
+    "split": "train",
+    "label": 1,
+    "score": 0.9417489012970512,
+    "prediction": 1
+  },
+  {
+    "id": "CF496",
+    "split": "validation",
+    "label": 0,
+    "score": 0.0015505283557668884,
+    "prediction": 0
+  },
+  {
+    "id": "CF499",
+    "split": "validation",
+    "label": 0,
+    "score": 0.0028780642645368586,
+    "prediction": 0
+  },
+  {
+    "id": "CF501",
+    "split": "validation",
+    "label": 0,
+    "score": 0.9810736577669044,
+    "prediction": 1
+  },
+  {
+    "id": "CF504",
+    "split": "test",
+    "label": 0,
+    "score": 0.8560287812003933,
+    "prediction": 1
+  },
+  {
+    "id": "CF505",
+    "split": "validation",
+    "label": 1,
+    "score": 0.9995096522656294,
+    "prediction": 1
+  },
+  {
+    "id": "CF506",
+    "split": "train",
+    "label": 1,
+    "score": 0.9636028329030872,
+    "prediction": 1
+  },
+  {
+    "id": "CF51",
+    "split": "train",
+    "label": 0,
+    "score": 0.09711918607538324,
+    "prediction": 0
+  },
+  {
+    "id": "CF510",
+    "split": "train",
+    "label": 1,
+    "score": 0.8837968913627274,
+    "prediction": 1
+  },
+  {
+    "id": "CF511",
+    "split": "train",
+    "label": 0,
+    "score": 0.0740799610459225,
+    "prediction": 0
+  },
+  {
+    "id": "CF513",
+    "split": "validation",
+    "label": 0,
+    "score": 0.15303037803508654,
+    "prediction": 0
+  },
+  {
+    "id": "CF514",
+    "split": "train",
+    "label": 0,
+    "score": 0.018272000629482893,
+    "prediction": 0
+  },
+  {
+    "id": "CF515",
+    "split": "train",
+    "label": 0,
+    "score": 0.07908936802031964,
+    "prediction": 0
+  },
+  {
+    "id": "CF516",
+    "split": "test",
+    "label": 1,
+    "score": 0.9562824810271708,
+    "prediction": 1
+  },
+  {
+    "id": "CF517",
+    "split": "test",
+    "label": 0,
+    "score": 0.00442773105556348,
+    "prediction": 0
+  },
+  {
+    "id": "CF518",
+    "split": "test",
+    "label": 0,
+    "score": 0.39533191933627976,
+    "prediction": 0
+  },
+  {
+    "id": "CF52",
+    "split": "train",
+    "label": 0,
+    "score": 0.006754936976743901,
+    "prediction": 0
+  },
+  {
+    "id": "CF520",
+    "split": "train",
+    "label": 1,
+    "score": 0.9577146015741103,
+    "prediction": 1
+  },
+  {
+    "id": "CF521",
+    "split": "train",
+    "label": 0,
+    "score": 0.08342119096988498,
+    "prediction": 0
+  },
+  {
+    "id": "CF522",
+    "split": "validation",
+    "label": 1,
+    "score": 0.9726930837415132,
+    "prediction": 1
+  },
+  {
+    "id": "CF523",
+    "split": "validation",
+    "label": 0,
+    "score": 0.3117726309159764,
+    "prediction": 0
+  },
+  {
+    "id": "CF525",
+    "split": "test",
+    "label": 0,
+    "score": 0.005552460815607084,
+    "prediction": 0
+  },
+  {
+    "id": "CF526",
+    "split": "train",
+    "label": 1,
+    "score": 0.9501286606318661,
+    "prediction": 1
+  },
+  {
+    "id": "CF529",
+    "split": "train",
+    "label": 1,
+    "score": 0.9669226434160716,
+    "prediction": 1
+  },
+  {
+    "id": "CF53",
+    "split": "test",
+    "label": 0,
+    "score": 0.24367534462270282,
+    "prediction": 0
+  },
+  {
+    "id": "CF532",
+    "split": "train",
+    "label": 1,
+    "score": 0.9545885182439049,
+    "prediction": 1
+  },
+  {
+    "id": "CF533",
+    "split": "train",
+    "label": 0,
+    "score": 0.12454281700571851,
+    "prediction": 0
+  },
+  {
+    "id": "CF535",
+    "split": "train",
+    "label": 1,
+    "score": 0.9821835636173877,
+    "prediction": 1
+  },
+  {
+    "id": "CF536",
+    "split": "test",
+    "label": 1,
+    "score": 0.999632723563196,
+    "prediction": 1
+  },
+  {
+    "id": "CF537",
+    "split": "train",
+    "label": 1,
+    "score": 0.9045870862063162,
+    "prediction": 1
+  },
+  {
+    "id": "CF54",
+    "split": "train",
+    "label": 0,
+    "score": 0.0019182803030700242,
+    "prediction": 0
+  },
+  {
+    "id": "CF540",
+    "split": "test",
+    "label": 1,
+    "score": 0.007150967065776822,
+    "prediction": 0
+  },
+  {
+    "id": "CF541",
+    "split": "validation",
+    "label": 1,
+    "score": 0.9528601173741572,
+    "prediction": 1
+  },
+  {
+    "id": "CF542",
+    "split": "train",
+    "label": 1,
+    "score": 0.9006667859750901,
+    "prediction": 1
+  },
+  {
+    "id": "CF55",
+    "split": "train",
+    "label": 1,
+    "score": 0.9979254621623478,
+    "prediction": 1
+  },
+  {
+    "id": "CF56",
+    "split": "validation",
+    "label": 0,
+    "score": 0.9955505972486403,
+    "prediction": 1
+  },
+  {
+    "id": "CF57",
+    "split": "validation",
+    "label": 1,
+    "score": 0.8292890076404317,
+    "prediction": 1
+  },
+  {
+    "id": "CF58",
+    "split": "test",
+    "label": 0,
+    "score": 0.09341072417268256,
+    "prediction": 0
+  },
+  {
+    "id": "CF59",
+    "split": "train",
+    "label": 0,
+    "score": 0.0004860661036211922,
+    "prediction": 0
+  },
+  {
+    "id": "CF608",
+    "split": "train",
+    "label": 0,
+    "score": 0.0649488279182532,
+    "prediction": 0
+  },
+  {
+    "id": "CF61",
+    "split": "train",
+    "label": 1,
+    "score": 0.999768791198179,
+    "prediction": 1
+  },
+  {
+    "id": "CF62",
+    "split": "validation",
+    "label": 0,
+    "score": 0.9479608993729334,
+    "prediction": 1
+  },
+  {
+    "id": "CF63",
+    "split": "test",
+    "label": 0,
+    "score": 0.44391115436607326,
+    "prediction": 0
+  },
+  {
+    "id": "CF64",
+    "split": "validation",
+    "label": 1,
+    "score": 0.5666633271651361,
+    "prediction": 1
+  },
+  {
+    "id": "CF65",
+    "split": "train",
+    "label": 0,
+    "score": 0.004788085726704311,
+    "prediction": 0
+  },
+  {
+    "id": "CF68",
+    "split": "test",
+    "label": 1,
+    "score": 0.38152147224756916,
+    "prediction": 0
+  },
+  {
+    "id": "CF69",
+    "split": "test",
+    "label": 1,
+    "score": 0.9999749124245937,
+    "prediction": 1
+  },
+  {
+    "id": "CF70",
+    "split": "test",
+    "label": 1,
+    "score": 0.020014500640509407,
+    "prediction": 0
+  },
+  {
+    "id": "CF72",
+    "split": "train",
+    "label": 0,
+    "score": 0.016741807207666107,
+    "prediction": 0
+  },
+  {
+    "id": "CF73",
+    "split": "test",
+    "label": 0,
+    "score": 0.34653988754384174,
+    "prediction": 0
+  },
+  {
+    "id": "CF74",
+    "split": "validation",
+    "label": 0,
+    "score": 0.7257154252253265,
+    "prediction": 1
+  },
+  {
+    "id": "CF75",
+    "split": "validation",
+    "label": 0,
+    "score": 0.5980582404743869,
+    "prediction": 1
+  },
+  {
+    "id": "CF76",
+    "split": "test",
+    "label": 0,
+    "score": 0.12262928504243835,
+    "prediction": 0
+  },
+  {
+    "id": "CF77",
+    "split": "train",
+    "label": 1,
+    "score": 0.9848006970496839,
+    "prediction": 1
+  },
+  {
+    "id": "CF78",
+    "split": "train",
+    "label": 0,
+    "score": 0.001377573065526386,
+    "prediction": 0
+  },
+  {
+    "id": "CF81",
+    "split": "test",
+    "label": 1,
+    "score": 0.986335959498261,
+    "prediction": 1
+  },
+  {
+    "id": "CF82",
+    "split": "train",
+    "label": 1,
+    "score": 0.9459796689809545,
+    "prediction": 1
+  },
+  {
+    "id": "CF83",
+    "split": "train",
+    "label": 1,
+    "score": 0.9999992125566496,
+    "prediction": 1
+  },
+  {
+    "id": "CF85",
+    "split": "train",
+    "label": 1,
+    "score": 0.9755307958487573,
+    "prediction": 1
+  },
+  {
+    "id": "CF87",
+    "split": "train",
+    "label": 0,
+    "score": 0.13091068168487086,
+    "prediction": 0
+  },
+  {
+    "id": "CF88",
+    "split": "train",
+    "label": 1,
+    "score": 0.9013179809571097,
+    "prediction": 1
+  },
+  {
+    "id": "CF91",
+    "split": "train",
+    "label": 0,
+    "score": 0.07958459966506025,
+    "prediction": 0
+  },
+  {
+    "id": "CF92",
+    "split": "train",
+    "label": 1,
+    "score": 0.9222525890011771,
+    "prediction": 1
+  },
+  {
+    "id": "CF93",
+    "split": "train",
+    "label": 1,
+    "score": 0.9014998351042035,
+    "prediction": 1
+  },
+  {
+    "id": "CF94",
+    "split": "test",
+    "label": 0,
+    "score": 0.005406184981236273,
+    "prediction": 0
+  },
+  {
+    "id": "CF95",
+    "split": "test",
+    "label": 0,
+    "score": 0.17364063123395107,
+    "prediction": 0
+  },
+  {
+    "id": "CF99",
+    "split": "validation",
+    "label": 1,
+    "score": 0.018088793010177847,
+    "prediction": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "exactImageDuplicates": 0,
+  "crossSplitPerceptualHashCandidates": [
+    {"images": ["CF450", "CF369"], "hammingDistance": 4, "inspection": "Distinct portraits on visual inspection"},
+    {"images": ["CF506", "CF420"], "hammingDistance": 2, "inspection": "Distinct portraits on visual inspection"}
+  ],
+  "perceptualHash": "63-bit median-threshold DCT hash, 32x32 grayscale, threshold Hamming <= 5",
+  "limitation": "This does not establish exhaustive identity independence; reliable identity IDs were not provided."
+}

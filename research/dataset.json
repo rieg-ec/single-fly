@@ -1,0 +1,2713 @@
+{
+  "dataset": "SCUT-FBP5500 v2.1",
+  "source": "https://github.com/HCIILAB/SCUT-FBP5500-Database-Release",
+  "restriction": "Non-commercial research only",
+  "subset": "CF portraits marked as sourced from the 10k US Adults Face Database",
+  "eligible": 506,
+  "seed": 20260911,
+  "selection": "Lowest and highest rating thirds; middle third excluded",
+  "ranges": [
+    [
+      1.333333,
+      2.55
+    ],
+    [
+      2.9,
+      4.516667
+    ]
+  ],
+  "records": [
+    {
+      "id": "CF100",
+      "file": "CF100.jpg",
+      "rating": 2.133333,
+      "label": 0,
+      "split": "test",
+      "sha256": "b0db6297529142452286f9bb2a5b633205f270aec26c0dbd60c5d5561ed9e4e3"
+    },
+    {
+      "id": "CF101",
+      "file": "CF101.jpg",
+      "rating": 2.483333,
+      "label": 0,
+      "split": "train",
+      "sha256": "3e3931345856a872578ea614efe8173be0cfeda148906633efeea95f1a3524b1"
+    },
+    {
+      "id": "CF102",
+      "file": "CF102.jpg",
+      "rating": 3.3,
+      "label": 1,
+      "split": "train",
+      "sha256": "4d39847c63fcb5e264afe3564a372fcaf7343f5cde1f62d7654cabb76026adfa"
+    },
+    {
+      "id": "CF104",
+      "file": "CF104.jpg",
+      "rating": 2.55,
+      "label": 0,
+      "split": "train",
+      "sha256": "7e4011036f3fded41901ea1c835f18ee70273dee9f9b931bd7d6913686730db8"
+    },
+    {
+      "id": "CF108",
+      "file": "CF108.jpg",
+      "rating": 2.1,
+      "label": 0,
+      "split": "train",
+      "sha256": "14c18bccfd635157e4714bb46289221cbd8081fc98169c59a8096b8a337f23db"
+    },
+    {
+      "id": "CF109",
+      "file": "CF109.jpg",
+      "rating": 2.316667,
+      "label": 0,
+      "split": "train",
+      "sha256": "90085e4f54ec5ace9880ecb99641657142039e78c3b8bde2e1d372bca2fb8f63"
+    },
+    {
+      "id": "CF111",
+      "file": "CF111.jpg",
+      "rating": 2.983333,
+      "label": 1,
+      "split": "validation",
+      "sha256": "b0465023f4467568350fdc5b51316f6c7d2056628c1a6031f3b04696f0b429e6"
+    },
+    {
+      "id": "CF114",
+      "file": "CF114.jpg",
+      "rating": 2.216667,
+      "label": 0,
+      "split": "train",
+      "sha256": "46e3293507cca5860a712adb5988d1ee9dc0a844380ec0d8ac86ee96a78478ec"
+    },
+    {
+      "id": "CF117",
+      "file": "CF117.jpg",
+      "rating": 1.983333,
+      "label": 0,
+      "split": "train",
+      "sha256": "c8fd22d0dd165fbc1322fe56e5802ae1b26f702b49a05644d35de3356043c0ca"
+    },
+    {
+      "id": "CF118",
+      "file": "CF118.jpg",
+      "rating": 1.883333,
+      "label": 0,
+      "split": "validation",
+      "sha256": "e38ac069bd6e632b0a367e9c5c60cc8c6638475802683767318f3a7959fc5d12"
+    },
+    {
+      "id": "CF119",
+      "file": "CF119.jpg",
+      "rating": 2.55,
+      "label": 0,
+      "split": "test",
+      "sha256": "577b8c694d57ae1eb75e56451b49e0411607dc3fd3ca5a762fe5964d49fc67a2"
+    },
+    {
+      "id": "CF120",
+      "file": "CF120.jpg",
+      "rating": 2.55,
+      "label": 0,
+      "split": "train",
+      "sha256": "075bc96c53aa23346a199532c85e0b887e2c9570ad4616ddb95eb2bc02383db7"
+    },
+    {
+      "id": "CF121",
+      "file": "CF121.jpg",
+      "rating": 2.066667,
+      "label": 0,
+      "split": "train",
+      "sha256": "c76bd07c73d6486d7f3f2651827cd11f1cadc3bcdc8038d1a271785bce53f83d"
+    },
+    {
+      "id": "CF122",
+      "file": "CF122.jpg",
+      "rating": 3.15,
+      "label": 1,
+      "split": "train",
+      "sha256": "35e12b5554d418cb45a9cada627bd3af19a777655ba97409809eb43fcea9710b"
+    },
+    {
+      "id": "CF124",
+      "file": "CF124.jpg",
+      "rating": 3.0,
+      "label": 1,
+      "split": "validation",
+      "sha256": "a085b9ee639d261cdb7af3585de00cee1a8d83ee5564b9e478f176688d1f17b1"
+    },
+    {
+      "id": "CF125",
+      "file": "CF125.jpg",
+      "rating": 3.766667,
+      "label": 1,
+      "split": "validation",
+      "sha256": "bfe66e86bdee71f25407919e3c5a11811a190f9d817996807f17c8445e650a72"
+    },
+    {
+      "id": "CF129",
+      "file": "CF129.jpg",
+      "rating": 1.633333,
+      "label": 0,
+      "split": "train",
+      "sha256": "0440a174f87839a155aedaf81cbe401f8cda2e3e17319e84c1a0ba5cb77f8b69"
+    },
+    {
+      "id": "CF130",
+      "file": "CF130.jpg",
+      "rating": 2.966667,
+      "label": 1,
+      "split": "train",
+      "sha256": "6e04aaa7ace9c0a6fc1968568bc045eb6ff95a7eda40d0875290f922aad7fc78"
+    },
+    {
+      "id": "CF131",
+      "file": "CF131.jpg",
+      "rating": 3.266667,
+      "label": 1,
+      "split": "train",
+      "sha256": "9866ebb4084a54824bc91f5f3746ed34dba67b7f51df451946491e1c177c59a1"
+    },
+    {
+      "id": "CF133",
+      "file": "CF133.jpg",
+      "rating": 2.933333,
+      "label": 1,
+      "split": "train",
+      "sha256": "6d3525ef26b92d0346915c6ba59e4fbc18c67a67956c25dd5782024fda65a019"
+    },
+    {
+      "id": "CF135",
+      "file": "CF135.jpg",
+      "rating": 2.016667,
+      "label": 0,
+      "split": "validation",
+      "sha256": "730f3db84cc42b1d94f0172befa2b76d484a2d5560037f9d76cba141bd135a8d"
+    },
+    {
+      "id": "CF136",
+      "file": "CF136.jpg",
+      "rating": 2.466667,
+      "label": 0,
+      "split": "train",
+      "sha256": "c8524855f5f749354dabc3607331e0d8458679383c65cb201e4d2b0ccde41ddf"
+    },
+    {
+      "id": "CF137",
+      "file": "CF137.jpg",
+      "rating": 2.933333,
+      "label": 1,
+      "split": "train",
+      "sha256": "7baa4f9a78800a1331afd88d533a4b8fe699e8d3a5f94164bb4704a952a30c04"
+    },
+    {
+      "id": "CF138",
+      "file": "CF138.jpg",
+      "rating": 1.9,
+      "label": 0,
+      "split": "train",
+      "sha256": "0e96b70f8c6f270801a3f4efe4e260f71e4ec97a1aeba1edceb8dc6a3ac83d7f"
+    },
+    {
+      "id": "CF139",
+      "file": "CF139.jpg",
+      "rating": 2.316667,
+      "label": 0,
+      "split": "test",
+      "sha256": "12c79dbcf249df6509cf54cbdb323e2fbc0839d26c6612b9f55e81f23c690cae"
+    },
+    {
+      "id": "CF141",
+      "file": "CF141.jpg",
+      "rating": 3.583333,
+      "label": 1,
+      "split": "train",
+      "sha256": "2477715a035e94ca436eec1e885163a92569dac68b91880f6f40a52798c612be"
+    },
+    {
+      "id": "CF142",
+      "file": "CF142.jpg",
+      "rating": 2.366667,
+      "label": 0,
+      "split": "train",
+      "sha256": "e8c819486f1ad6d5158fc64513224b631bea3e836cfa76a2d685e4153b518954"
+    },
+    {
+      "id": "CF143",
+      "file": "CF143.jpg",
+      "rating": 3.7,
+      "label": 1,
+      "split": "train",
+      "sha256": "4dc382abb0ab2ecabde46f40b69d2c1017c1e567a24815f99d0e91a6024a6405"
+    },
+    {
+      "id": "CF145",
+      "file": "CF145.jpg",
+      "rating": 2.05,
+      "label": 0,
+      "split": "validation",
+      "sha256": "f7709d8a3e85c8795f5b63d915f6bb3f112f293dae0071ea4f93a42a802dc2cb"
+    },
+    {
+      "id": "CF146",
+      "file": "CF146.jpg",
+      "rating": 3.283333,
+      "label": 1,
+      "split": "train",
+      "sha256": "a13f63abaadaee667e7ea84be1c50ecb714eef48d08d60d4efe5356f95976b09"
+    },
+    {
+      "id": "CF147",
+      "file": "CF147.jpg",
+      "rating": 2.35,
+      "label": 0,
+      "split": "test",
+      "sha256": "eaa906e1519a6d88c605f90d3005dd44ec70706c89b84ee16cf730ab26fcdaae"
+    },
+    {
+      "id": "CF148",
+      "file": "CF148.jpg",
+      "rating": 2.35,
+      "label": 0,
+      "split": "train",
+      "sha256": "07f84395dc7d702ca6acfb2117ed399de385c3c054b29f0275357bbcbd0cf047"
+    },
+    {
+      "id": "CF150",
+      "file": "CF150.jpg",
+      "rating": 3.6,
+      "label": 1,
+      "split": "train",
+      "sha256": "4682660d8375cbc4457491d436990d8d2ae62d6e8ce362d181e5e222966725a5"
+    },
+    {
+      "id": "CF152",
+      "file": "CF152.jpg",
+      "rating": 2.15,
+      "label": 0,
+      "split": "train",
+      "sha256": "567eb5b9c9ccec10fa5c1d7d8a33a9e95e5b40ec5b53f341dc84280f8a105ddc"
+    },
+    {
+      "id": "CF153",
+      "file": "CF153.jpg",
+      "rating": 3.55,
+      "label": 1,
+      "split": "validation",
+      "sha256": "4ae0e6e6ad50cdc09d9e8a0665f66915b1d5cef015aa13f9a07a0cb1c1939492"
+    },
+    {
+      "id": "CF154",
+      "file": "CF154.jpg",
+      "rating": 2.283333,
+      "label": 0,
+      "split": "train",
+      "sha256": "ed82272165cf6367bea04108c2d7e3a1d9523b68aab424d5429656a9420a1508"
+    },
+    {
+      "id": "CF155",
+      "file": "CF155.jpg",
+      "rating": 2.183333,
+      "label": 0,
+      "split": "validation",
+      "sha256": "6fcc786f1b29de7a2faf2222dcb72d1b51054987342f4e131dee90ce8b07499a"
+    },
+    {
+      "id": "CF156",
+      "file": "CF156.jpg",
+      "rating": 2.983333,
+      "label": 1,
+      "split": "train",
+      "sha256": "712535f2447a998ac9e01e9051761f6a4623cba7fe136c2b71c91067334d21a4"
+    },
+    {
+      "id": "CF158",
+      "file": "CF158.jpg",
+      "rating": 2.4,
+      "label": 0,
+      "split": "validation",
+      "sha256": "d4557c75858c0aa660cb6388845991ee501b4bbcdd9f8ca6df886ab6c1711715"
+    },
+    {
+      "id": "CF159",
+      "file": "CF159.jpg",
+      "rating": 2.433333,
+      "label": 0,
+      "split": "test",
+      "sha256": "481da1074da6222b58738d6c07d7d8d09a7c99334355e514e0ff81ac20d212a3"
+    },
+    {
+      "id": "CF160",
+      "file": "CF160.jpg",
+      "rating": 2.416667,
+      "label": 0,
+      "split": "train",
+      "sha256": "2f5daf4ab2f79ebd5ec6a3a49bfdf3f8c5ff0920ba27951e5d84364eaaf318f2"
+    },
+    {
+      "id": "CF161",
+      "file": "CF161.jpg",
+      "rating": 2.216667,
+      "label": 0,
+      "split": "validation",
+      "sha256": "b3ba91d02e61be29c599a4244545876745f088502c2284c16641d12ca6dbc8d7"
+    },
+    {
+      "id": "CF162",
+      "file": "CF162.jpg",
+      "rating": 1.833333,
+      "label": 0,
+      "split": "validation",
+      "sha256": "14d99d5b4cb236dd1bcf1a1f920fef48d2c5e334209301093ce4254e992061d8"
+    },
+    {
+      "id": "CF163",
+      "file": "CF163.jpg",
+      "rating": 3.3,
+      "label": 1,
+      "split": "test",
+      "sha256": "044cf2f150377a1e5091d9393a7b4f0c770d65fa1314a31358bef64a852abd6f"
+    },
+    {
+      "id": "CF164",
+      "file": "CF164.jpg",
+      "rating": 2.516667,
+      "label": 0,
+      "split": "train",
+      "sha256": "81eaa254fdef80b450abc71eec4e24444376a2e08b52fdd1d1de102a0399789d"
+    },
+    {
+      "id": "CF165",
+      "file": "CF165.jpg",
+      "rating": 1.916667,
+      "label": 0,
+      "split": "train",
+      "sha256": "5405d0766f4ff9a963ded53095e4ea2e1b6e885a6bc37890ffdfb4f33264a71d"
+    },
+    {
+      "id": "CF166",
+      "file": "CF166.jpg",
+      "rating": 2.433333,
+      "label": 0,
+      "split": "test",
+      "sha256": "ea893ba22b9a8c93e26a7f8e39260ecebad33a25878bb0f217f4f57e8246f8a5"
+    },
+    {
+      "id": "CF167",
+      "file": "CF167.jpg",
+      "rating": 3.166667,
+      "label": 1,
+      "split": "test",
+      "sha256": "23900bb8c40a407d8d134bf18216e2a7345077c2c4babd246022a3bb1843cbff"
+    },
+    {
+      "id": "CF168",
+      "file": "CF168.jpg",
+      "rating": 2.9,
+      "label": 1,
+      "split": "validation",
+      "sha256": "196942d91b76967556d9364e63f6663262c85cf4ff84e3be70c2a223fc5bf7a1"
+    },
+    {
+      "id": "CF170",
+      "file": "CF170.jpg",
+      "rating": 2.3,
+      "label": 0,
+      "split": "train",
+      "sha256": "8f5997f341f587b66a8b9586f69c8bd77ba2c61166ff4825bd5ed86e1d8317a1"
+    },
+    {
+      "id": "CF171",
+      "file": "CF171.jpg",
+      "rating": 2.45,
+      "label": 0,
+      "split": "validation",
+      "sha256": "e4f6c362a4dee936c57b19c06487532e37c868935cf21c8e5ea3793e1d882dd7"
+    },
+    {
+      "id": "CF172",
+      "file": "CF172.jpg",
+      "rating": 3.2,
+      "label": 1,
+      "split": "train",
+      "sha256": "f74c9a4ce0a57ba9defe862e7aa0a2184fa9b2ff51fc39b0d3d8fea6d31e22da"
+    },
+    {
+      "id": "CF174",
+      "file": "CF174.jpg",
+      "rating": 3.05,
+      "label": 1,
+      "split": "train",
+      "sha256": "066c622cf4aacf19c03ed186e8a5bff056b17a8b6300845806755d110558dbb6"
+    },
+    {
+      "id": "CF179",
+      "file": "CF179.jpg",
+      "rating": 2.516667,
+      "label": 0,
+      "split": "train",
+      "sha256": "17c6935d06f87392dd4d2e7d028effe8385480ee91e12524c1d84de1ca7d6d62"
+    },
+    {
+      "id": "CF180",
+      "file": "CF180.jpg",
+      "rating": 3.316667,
+      "label": 1,
+      "split": "test",
+      "sha256": "ce62732f7018cf44d442c0403b219591373100a5455737a5bcc611030d6575ea"
+    },
+    {
+      "id": "CF186",
+      "file": "CF186.jpg",
+      "rating": 2.4,
+      "label": 0,
+      "split": "train",
+      "sha256": "0325e291ac6f54a4223503a265adf0462221c9ce96ff1eb3d634a20a6e91de0d"
+    },
+    {
+      "id": "CF187",
+      "file": "CF187.jpg",
+      "rating": 2.3,
+      "label": 0,
+      "split": "test",
+      "sha256": "992ef70e3663533ae7b367efbc1576620156ca22dbaf9d25824ff92333ec9d0a"
+    },
+    {
+      "id": "CF188",
+      "file": "CF188.jpg",
+      "rating": 2.966667,
+      "label": 1,
+      "split": "test",
+      "sha256": "056061b70c6c4811a521df171655b8a455db0c46601e076e56b65009edfdf492"
+    },
+    {
+      "id": "CF189",
+      "file": "CF189.jpg",
+      "rating": 3.116667,
+      "label": 1,
+      "split": "validation",
+      "sha256": "8a14aaac331ef97de24fdc9c818938238166d64c6bcfb6845bab555a8554d6a3"
+    },
+    {
+      "id": "CF190",
+      "file": "CF190.jpg",
+      "rating": 2.416667,
+      "label": 0,
+      "split": "train",
+      "sha256": "51e03ee5cbf14c7c645a66f0e8e7500af3a15b6a1c5b0feab71a2df90740177f"
+    },
+    {
+      "id": "CF191",
+      "file": "CF191.jpg",
+      "rating": 2.25,
+      "label": 0,
+      "split": "train",
+      "sha256": "d59e83d8ba81bd5e2de40d35bf0ab41ed672abdedfd7f3b596dbfbe6e56aa25a"
+    },
+    {
+      "id": "CF193",
+      "file": "CF193.jpg",
+      "rating": 3.7,
+      "label": 1,
+      "split": "test",
+      "sha256": "bd1cf14d8eb7e72c791f177ad0ec2ec212f27e7410f3f7d13ea1ee30308a032d"
+    },
+    {
+      "id": "CF198",
+      "file": "CF198.jpg",
+      "rating": 2.35,
+      "label": 0,
+      "split": "train",
+      "sha256": "4ebecbea9456361eb105f12ca5423b8c882996b1e44d18e58adbefc32b348762"
+    },
+    {
+      "id": "CF199",
+      "file": "CF199.jpg",
+      "rating": 2.516667,
+      "label": 0,
+      "split": "train",
+      "sha256": "29ecc79d8ff60dd19fe38ea5c1469c8685694c6c9188c8e1a9f9076d9e36f5e7"
+    },
+    {
+      "id": "CF201",
+      "file": "CF201.jpg",
+      "rating": 3.0,
+      "label": 1,
+      "split": "test",
+      "sha256": "c1b7f3b86b5f6434d40cd760b44e0a88fd986f240ad83227361cf4ef2538398a"
+    },
+    {
+      "id": "CF203",
+      "file": "CF203.jpg",
+      "rating": 2.016667,
+      "label": 0,
+      "split": "train",
+      "sha256": "1998efdb84da141558a7bf1e58c76e36fc4b3f7aa474799cf2408eab42aa355c"
+    },
+    {
+      "id": "CF204",
+      "file": "CF204.jpg",
+      "rating": 3.15,
+      "label": 1,
+      "split": "validation",
+      "sha256": "599ef3bf72368bf82055b8bdbb4b96614674b2e4648c58a891176e1d2821efc0"
+    },
+    {
+      "id": "CF205",
+      "file": "CF205.jpg",
+      "rating": 2.516667,
+      "label": 0,
+      "split": "test",
+      "sha256": "d74f961cc26e2bbeb1f7ed6d623ee6124a1afd1ac8459a8f4837c54a5b5ae945"
+    },
+    {
+      "id": "CF206",
+      "file": "CF206.jpg",
+      "rating": 2.133333,
+      "label": 0,
+      "split": "train",
+      "sha256": "a7881573518aee950289dbe9fb3c5758b2315dd9adf0a9bfa836a8b4976a200c"
+    },
+    {
+      "id": "CF207",
+      "file": "CF207.jpg",
+      "rating": 2.333333,
+      "label": 0,
+      "split": "train",
+      "sha256": "420bc963f63a10b58a2d42bea06e31050cd67b15f8df6155c31194ce950db71b"
+    },
+    {
+      "id": "CF209",
+      "file": "CF209.jpg",
+      "rating": 3.05,
+      "label": 1,
+      "split": "train",
+      "sha256": "111b24311c1fb0fdbe6b36cba5005dca55245ed82b78ea97f08b2c3cba371da6"
+    },
+    {
+      "id": "CF211",
+      "file": "CF211.jpg",
+      "rating": 2.416667,
+      "label": 0,
+      "split": "train",
+      "sha256": "717a593382eeb84b8051704cb72232a0bb3b99c23c63e23a55195b30535c5d5c"
+    },
+    {
+      "id": "CF212",
+      "file": "CF212.jpg",
+      "rating": 2.4,
+      "label": 0,
+      "split": "train",
+      "sha256": "b1a85990d94579a02025fa14ee68c7a724223cb4e705c1cf219fba541e77813b"
+    },
+    {
+      "id": "CF214",
+      "file": "CF214.jpg",
+      "rating": 2.4,
+      "label": 0,
+      "split": "validation",
+      "sha256": "959bb9170694275aa460c774c83c523c8c3cbd80968715d7a882f80080fb99ca"
+    },
+    {
+      "id": "CF215",
+      "file": "CF215.jpg",
+      "rating": 3.033333,
+      "label": 1,
+      "split": "test",
+      "sha256": "5ba10f4a3f2d17bd302cbe3d7edc3c9b43f6227821b9ff1dd3068ecdfbc12006"
+    },
+    {
+      "id": "CF218",
+      "file": "CF218.jpg",
+      "rating": 2.95,
+      "label": 1,
+      "split": "train",
+      "sha256": "45f927df91ea98125e6b717ff7e7c3d11e0f4f46c5016e5ede1f07b5288fec2e"
+    },
+    {
+      "id": "CF219",
+      "file": "CF219.jpg",
+      "rating": 2.15,
+      "label": 0,
+      "split": "test",
+      "sha256": "16376b046d1e7da027ace6462e58bc94086da75e8065bab1f18e23226b6df459"
+    },
+    {
+      "id": "CF220",
+      "file": "CF220.jpg",
+      "rating": 3.116667,
+      "label": 1,
+      "split": "train",
+      "sha256": "07c067d37554bc7f6f0d9321898a7920e82cb5bf2b5b29f67b8660d38e2d8322"
+    },
+    {
+      "id": "CF223",
+      "file": "CF223.jpg",
+      "rating": 2.483333,
+      "label": 0,
+      "split": "validation",
+      "sha256": "c55b09198eeb078e2af0180fdf38fe6e2ba56482b0395e3110b13cd4d4142372"
+    },
+    {
+      "id": "CF225",
+      "file": "CF225.jpg",
+      "rating": 2.916667,
+      "label": 1,
+      "split": "test",
+      "sha256": "221957711bfefe095da7e427e00cdd5be18c92cbc20fcf32e0f9a5d078ebd51b"
+    },
+    {
+      "id": "CF232",
+      "file": "CF232.jpg",
+      "rating": 3.633333,
+      "label": 1,
+      "split": "train",
+      "sha256": "7b9f9702b0606e986a9e0d130bdceb4681fa724544149d64120df65e377c9dec"
+    },
+    {
+      "id": "CF233",
+      "file": "CF233.jpg",
+      "rating": 3.05,
+      "label": 1,
+      "split": "validation",
+      "sha256": "cd3a01922a63cecec210d9f66e071f8f11e139b434f0b8d26b1f4ee72c771281"
+    },
+    {
+      "id": "CF234",
+      "file": "CF234.jpg",
+      "rating": 2.333333,
+      "label": 0,
+      "split": "train",
+      "sha256": "2437563b25b004cfa537dcf921b11c7af13a4797cd9605550cf7ab901755397f"
+    },
+    {
+      "id": "CF235",
+      "file": "CF235.jpg",
+      "rating": 2.9,
+      "label": 1,
+      "split": "train",
+      "sha256": "ff8b89c628029de21d303d535aa2904710d4631474b033f12c1e5f3804356fff"
+    },
+    {
+      "id": "CF236",
+      "file": "CF236.jpg",
+      "rating": 2.116667,
+      "label": 0,
+      "split": "test",
+      "sha256": "becf9853c4c867e62c3bcce05207601e77f060283f43faa0b46d2baa0e33c1a1"
+    },
+    {
+      "id": "CF237",
+      "file": "CF237.jpg",
+      "rating": 3.183333,
+      "label": 1,
+      "split": "validation",
+      "sha256": "4227533a04e4792801d659bda35eb63ade7ac85a624fed2fc2642e9b8cdadedc"
+    },
+    {
+      "id": "CF238",
+      "file": "CF238.jpg",
+      "rating": 2.533333,
+      "label": 0,
+      "split": "train",
+      "sha256": "5ca8a639e69388ceda438039ff3aed0335a943f6bd98b6a432a1e20179083746"
+    },
+    {
+      "id": "CF241",
+      "file": "CF241.jpg",
+      "rating": 2.4,
+      "label": 0,
+      "split": "validation",
+      "sha256": "6c532ede4caf5e86b09aced2ce9ce8447a30ae0a3a18dec30a8cb67b3b6c408b"
+    },
+    {
+      "id": "CF242",
+      "file": "CF242.jpg",
+      "rating": 4.516667,
+      "label": 1,
+      "split": "train",
+      "sha256": "211c4cec99516da219ea5affb56b335ec0324277178d5aee64268e06bf9fb26b"
+    },
+    {
+      "id": "CF243",
+      "file": "CF243.jpg",
+      "rating": 3.533333,
+      "label": 1,
+      "split": "validation",
+      "sha256": "d1cddbcc168092552932ec6c6b4bbf1b1e1a81a9839be5a387980cf9c1c87f0b"
+    },
+    {
+      "id": "CF244",
+      "file": "CF244.jpg",
+      "rating": 3.683333,
+      "label": 1,
+      "split": "test",
+      "sha256": "56b801d4e071cd9aeba6a364647e8a21b4f2322c78f2a6f147def79a0bdab7da"
+    },
+    {
+      "id": "CF245",
+      "file": "CF245.jpg",
+      "rating": 2.066667,
+      "label": 0,
+      "split": "train",
+      "sha256": "19dc209b16f4e58ce5c37f9a9e36e16acf2da0984ab183a298f376b0f05e81a0"
+    },
+    {
+      "id": "CF246",
+      "file": "CF246.jpg",
+      "rating": 3.3,
+      "label": 1,
+      "split": "train",
+      "sha256": "cb6aafb9f50a718a02aab3da95f84772131bba2acb98fefee71861cd2d18234e"
+    },
+    {
+      "id": "CF247",
+      "file": "CF247.jpg",
+      "rating": 2.5,
+      "label": 0,
+      "split": "train",
+      "sha256": "ede37214d407dfaacfabe85f46784aed490714b4e85a37fa6dbddf9122aa38f8"
+    },
+    {
+      "id": "CF248",
+      "file": "CF248.jpg",
+      "rating": 2.433333,
+      "label": 0,
+      "split": "train",
+      "sha256": "5326c72f3ebafbb4e8793a0fdd6f6131394d4184339e846a429049e9f2e2ef13"
+    },
+    {
+      "id": "CF251",
+      "file": "CF251.jpg",
+      "rating": 1.733333,
+      "label": 0,
+      "split": "train",
+      "sha256": "ab0ad400cc0e7e273998c5d0c0b673007b31bb7dff4b1876037dbbcec7457cff"
+    },
+    {
+      "id": "CF252",
+      "file": "CF252.jpg",
+      "rating": 3.5,
+      "label": 1,
+      "split": "test",
+      "sha256": "88345cd7361c0cf333efd36b90c06ede001d2aaa255bb732b89a65eca214f77d"
+    },
+    {
+      "id": "CF253",
+      "file": "CF253.jpg",
+      "rating": 3.2,
+      "label": 1,
+      "split": "train",
+      "sha256": "da24f7276ff4e1759353dfc765a172f8ee9e4edb24641cddc85a26c8523a5300"
+    },
+    {
+      "id": "CF254",
+      "file": "CF254.jpg",
+      "rating": 2.966667,
+      "label": 1,
+      "split": "train",
+      "sha256": "d46dcd939724b31fce8211a08e6f5405f70a38f7ce3cad3f0d91f9b4080f0bfa"
+    },
+    {
+      "id": "CF255",
+      "file": "CF255.jpg",
+      "rating": 2.15,
+      "label": 0,
+      "split": "train",
+      "sha256": "47c50ce3f167671ea289c6a670e124e79d98398c258c4ac1095905db59b5c795"
+    },
+    {
+      "id": "CF256",
+      "file": "CF256.jpg",
+      "rating": 2.333333,
+      "label": 0,
+      "split": "test",
+      "sha256": "33cda1df3ed77112e2cb46afea5bfbd2605e3b3261c83655772fca3a3a3cead8"
+    },
+    {
+      "id": "CF257",
+      "file": "CF257.jpg",
+      "rating": 2.933333,
+      "label": 1,
+      "split": "train",
+      "sha256": "e4c2168e39a936bd8bee9eca0b7e7a9c202d2f839f43378b174277ba3ccbcaf7"
+    },
+    {
+      "id": "CF258",
+      "file": "CF258.jpg",
+      "rating": 3.15,
+      "label": 1,
+      "split": "test",
+      "sha256": "7ef5f701ad5977e37199be71318dbcfcec4035c0b6712f2e13177400add464a7"
+    },
+    {
+      "id": "CF259",
+      "file": "CF259.jpg",
+      "rating": 2.933333,
+      "label": 1,
+      "split": "train",
+      "sha256": "b9ab7076c39ba712b9ec2b07791a37e86c671da9b45cefb9c9190e6f83398e1a"
+    },
+    {
+      "id": "CF261",
+      "file": "CF261.jpg",
+      "rating": 3.0,
+      "label": 1,
+      "split": "validation",
+      "sha256": "fb031590015472c1819076af5895620ebff87d53695ee594f82be5ee20f7703c"
+    },
+    {
+      "id": "CF263",
+      "file": "CF263.jpg",
+      "rating": 2.15,
+      "label": 0,
+      "split": "validation",
+      "sha256": "8adc4a99eb0576a24855bbd45856a9a57d6c41c997baadc5303aa10283fc77d9"
+    },
+    {
+      "id": "CF264",
+      "file": "CF264.jpg",
+      "rating": 2.533333,
+      "label": 0,
+      "split": "train",
+      "sha256": "6a961187f33d6182a522c8a837c6914086586aaf03fddbe88b6fdf934e9851d6"
+    },
+    {
+      "id": "CF265",
+      "file": "CF265.jpg",
+      "rating": 2.266667,
+      "label": 0,
+      "split": "train",
+      "sha256": "b4139a0ea656535f284c836c81a2e437e17c83da0a0afd2a9a56b2972f8c271c"
+    },
+    {
+      "id": "CF268",
+      "file": "CF268.jpg",
+      "rating": 3.1,
+      "label": 1,
+      "split": "validation",
+      "sha256": "399c86d450c0a999941e727d17ce4dd7e06fcecff6094fdee0b21add8213c923"
+    },
+    {
+      "id": "CF269",
+      "file": "CF269.jpg",
+      "rating": 4.016667,
+      "label": 1,
+      "split": "validation",
+      "sha256": "8e5c76b9f3556d7715671b2dd86e0e93d6080d0d2724fb331e924d3433ec6e7c"
+    },
+    {
+      "id": "CF270",
+      "file": "CF270.jpg",
+      "rating": 3.333333,
+      "label": 1,
+      "split": "validation",
+      "sha256": "b2235266031ba8db92de1276a670d12318dffafa67b2bbbe9dd33149890bb1c4"
+    },
+    {
+      "id": "CF272",
+      "file": "CF272.jpg",
+      "rating": 2.983333,
+      "label": 1,
+      "split": "train",
+      "sha256": "9baa2bd1723cf8de95353f2f59f6143596c203aa418d42342ffdc1c82d5b3f72"
+    },
+    {
+      "id": "CF275",
+      "file": "CF275.jpg",
+      "rating": 2.966667,
+      "label": 1,
+      "split": "train",
+      "sha256": "8cc93e8049cfe1a49639b77fb7746e65cd30f0a41035b6322c66f4b7bc13c8fd"
+    },
+    {
+      "id": "CF277",
+      "file": "CF277.jpg",
+      "rating": 2.033333,
+      "label": 0,
+      "split": "train",
+      "sha256": "ee9d076db0879aa30192856b91d50c22b8f5bd71ce0501aedce107737460ba6f"
+    },
+    {
+      "id": "CF279",
+      "file": "CF279.jpg",
+      "rating": 3.85,
+      "label": 1,
+      "split": "test",
+      "sha256": "27061aafcbe9e5a4e04584fd6bc2541e4988a02088eb9189516410a4f864b440"
+    },
+    {
+      "id": "CF280",
+      "file": "CF280.jpg",
+      "rating": 2.05,
+      "label": 0,
+      "split": "train",
+      "sha256": "81e90013437ecc6f6271b9f478047f6f18254942eae296124f56ef76c5776945"
+    },
+    {
+      "id": "CF281",
+      "file": "CF281.jpg",
+      "rating": 1.933333,
+      "label": 0,
+      "split": "train",
+      "sha256": "8d70eff6eb6041dd049aa8399dbdb5c91c615dbded0182a692ee367f56d5de9f"
+    },
+    {
+      "id": "CF282",
+      "file": "CF282.jpg",
+      "rating": 3.033333,
+      "label": 1,
+      "split": "train",
+      "sha256": "8470ef57a65bd882bdb5ce5be05fe2aa921135fd6751644b1386978cf510060a"
+    },
+    {
+      "id": "CF284",
+      "file": "CF284.jpg",
+      "rating": 3.95,
+      "label": 1,
+      "split": "validation",
+      "sha256": "d9d23e6099ab89fd86f53129bc9baf638a3aae93f10f83e8f6ea90166bfe6d5a"
+    },
+    {
+      "id": "CF288",
+      "file": "CF288.jpg",
+      "rating": 3.083333,
+      "label": 1,
+      "split": "validation",
+      "sha256": "febcb71b05b9f5b41798116418f9f6def780e883474864340bde53fe559d5ff4"
+    },
+    {
+      "id": "CF289",
+      "file": "CF289.jpg",
+      "rating": 3.166667,
+      "label": 1,
+      "split": "train",
+      "sha256": "2060029f084fad730b060fda9ed26a8f0aa9143f348b9e7a399b7b8d1346871d"
+    },
+    {
+      "id": "CF291",
+      "file": "CF291.jpg",
+      "rating": 3.3,
+      "label": 1,
+      "split": "train",
+      "sha256": "6a88e3ee97fa7fd490d9962db17f8c6c55440e570f637485a881f386ca3d0ce0"
+    },
+    {
+      "id": "CF292",
+      "file": "CF292.jpg",
+      "rating": 2.516667,
+      "label": 0,
+      "split": "train",
+      "sha256": "cf09308fbe0a3f9dcfe0b766b24d1186c266ca9ce6853d7aad9907ade4fce6af"
+    },
+    {
+      "id": "CF293",
+      "file": "CF293.jpg",
+      "rating": 3.183333,
+      "label": 1,
+      "split": "train",
+      "sha256": "6d96bf553130a77f749c3ae851f4e37c90f8fcd8bd1c24a68d01ffa685547d8c"
+    },
+    {
+      "id": "CF295",
+      "file": "CF295.jpg",
+      "rating": 3.8,
+      "label": 1,
+      "split": "validation",
+      "sha256": "c4c22078843ea5dd8abd7c682fb30b8abac39b48d224ef807175c5b272e49d4e"
+    },
+    {
+      "id": "CF296",
+      "file": "CF296.jpg",
+      "rating": 3.166667,
+      "label": 1,
+      "split": "test",
+      "sha256": "2a56fa3f64faa4b27b8f76ebfedc032092bfda3caad86e0837d6c4fe4abb0544"
+    },
+    {
+      "id": "CF297",
+      "file": "CF297.jpg",
+      "rating": 2.433333,
+      "label": 0,
+      "split": "train",
+      "sha256": "806602774991679d6b4009c14c89d3cd990c9596de3ead53b81f999ffc0eff46"
+    },
+    {
+      "id": "CF298",
+      "file": "CF298.jpg",
+      "rating": 2.933333,
+      "label": 1,
+      "split": "train",
+      "sha256": "71be890e7b2207c7b6f49a45bc4addbb6db7317b28291e2555412875ec3776ba"
+    },
+    {
+      "id": "CF299",
+      "file": "CF299.jpg",
+      "rating": 3.766667,
+      "label": 1,
+      "split": "train",
+      "sha256": "32a98c4d0a4fd0eb188ea549f4f352cfc3995e010bc9528ddd53bfea3e742d8a"
+    },
+    {
+      "id": "CF30",
+      "file": "CF30.jpg",
+      "rating": 3.366667,
+      "label": 1,
+      "split": "validation",
+      "sha256": "7b3f8ddc3cd2375c648c782348682471d71b68a7dd65e654dc69262e6bf96a30"
+    },
+    {
+      "id": "CF300",
+      "file": "CF300.jpg",
+      "rating": 2.216667,
+      "label": 0,
+      "split": "validation",
+      "sha256": "c38a94a386e98a899fcf2023a2d5d2a5382ea9c06c0154469b4f0ad620642706"
+    },
+    {
+      "id": "CF301",
+      "file": "CF301.jpg",
+      "rating": 3.766667,
+      "label": 1,
+      "split": "train",
+      "sha256": "2fdba08b54b26f5e640a0f1eabf45dbc79f70a84ebb93c0ac8e41d981783b47c"
+    },
+    {
+      "id": "CF304",
+      "file": "CF304.jpg",
+      "rating": 3.016667,
+      "label": 1,
+      "split": "train",
+      "sha256": "ebd91e99621f08535ddc25915400e92f96a2bba0cc8dccdd082d2ed9a390fc56"
+    },
+    {
+      "id": "CF305",
+      "file": "CF305.jpg",
+      "rating": 3.9,
+      "label": 1,
+      "split": "train",
+      "sha256": "e4e86e88bf99c03e25bcdef747443437b0be60c8710a5eb0622ab57ac4fd0466"
+    },
+    {
+      "id": "CF307",
+      "file": "CF307.jpg",
+      "rating": 3.433333,
+      "label": 1,
+      "split": "train",
+      "sha256": "52a78f894db18214f01f8782f1f94d1666d0ac6a520041790117340dce0392da"
+    },
+    {
+      "id": "CF308",
+      "file": "CF308.jpg",
+      "rating": 2.466667,
+      "label": 0,
+      "split": "train",
+      "sha256": "f308e7b7307f7e1cf8bd7fe3ec8eb0e91759e00e17e50c3215abf7ffa2da94ef"
+    },
+    {
+      "id": "CF309",
+      "file": "CF309.jpg",
+      "rating": 4.1,
+      "label": 1,
+      "split": "train",
+      "sha256": "e468dfb9c2fa51d0cf6a4ba2b8a2c02eced21b101c4e5c6f3c634c5c146b0909"
+    },
+    {
+      "id": "CF313",
+      "file": "CF313.jpg",
+      "rating": 2.116667,
+      "label": 0,
+      "split": "train",
+      "sha256": "3a082487d566afeaf30ffa8c51852e6bf8fcd32f98cfecc71937c18bf2f855e6"
+    },
+    {
+      "id": "CF314",
+      "file": "CF314.jpg",
+      "rating": 1.916667,
+      "label": 0,
+      "split": "test",
+      "sha256": "d7ce3dc3a807d71ea138a2ba56855eb5bea505faead8ac5771e698273433bcfc"
+    },
+    {
+      "id": "CF316",
+      "file": "CF316.jpg",
+      "rating": 2.9,
+      "label": 1,
+      "split": "train",
+      "sha256": "eef10d82662a57e51ea03e6583ca29b17b05943b862c3d3f4860b348387186b2"
+    },
+    {
+      "id": "CF317",
+      "file": "CF317.jpg",
+      "rating": 2.9,
+      "label": 1,
+      "split": "test",
+      "sha256": "18cb17d01e46f7ae8ce402917bfc17003686dc7043fbaf683b3c8d327b7284b7"
+    },
+    {
+      "id": "CF318",
+      "file": "CF318.jpg",
+      "rating": 2.45,
+      "label": 0,
+      "split": "train",
+      "sha256": "b129f4b3ccbaa3f3718f77dcd6aa9a981368b1138e5650c43299b46ea1e7e72c"
+    },
+    {
+      "id": "CF32",
+      "file": "CF32.jpg",
+      "rating": 1.983333,
+      "label": 0,
+      "split": "train",
+      "sha256": "a6479117e73f380bcb36f04f5cdecfad5600f8c6270f658869326aa66741ba12"
+    },
+    {
+      "id": "CF320",
+      "file": "CF320.jpg",
+      "rating": 2.45,
+      "label": 0,
+      "split": "train",
+      "sha256": "7faebdc344c11d0c233678d92d9b7bb32e2c2381862504b77c58a5e1a201940d"
+    },
+    {
+      "id": "CF321",
+      "file": "CF321.jpg",
+      "rating": 1.933333,
+      "label": 0,
+      "split": "train",
+      "sha256": "c7d6858233e8b858bcac8ba03afb5496886e4e17e423609b56f2a486578511c6"
+    },
+    {
+      "id": "CF322",
+      "file": "CF322.jpg",
+      "rating": 2.45,
+      "label": 0,
+      "split": "test",
+      "sha256": "c45b511cd87892dbdd368c3f00cdac352b7461c56749b103700a0a180c877ece"
+    },
+    {
+      "id": "CF324",
+      "file": "CF324.jpg",
+      "rating": 2.383333,
+      "label": 0,
+      "split": "train",
+      "sha256": "77a544f3c4deb9dc0b21e51ba3cf35608863b083c2fd653ed9cb09d1826b6fe1"
+    },
+    {
+      "id": "CF325",
+      "file": "CF325.jpg",
+      "rating": 3.066667,
+      "label": 1,
+      "split": "train",
+      "sha256": "4bdf64bf993e35e1d841367f1972acb3cc8e5163192835cdd87674029225e7e6"
+    },
+    {
+      "id": "CF326",
+      "file": "CF326.jpg",
+      "rating": 3.116667,
+      "label": 1,
+      "split": "test",
+      "sha256": "43ca03f34877b616275fa5d727efcfb78d633c4c29d904a1f1df8aac195059e0"
+    },
+    {
+      "id": "CF328",
+      "file": "CF328.jpg",
+      "rating": 2.916667,
+      "label": 1,
+      "split": "train",
+      "sha256": "cf61cfcf696040ad71ce1663ebd56e40345c7d3794cea6eac5c551b8d43a7855"
+    },
+    {
+      "id": "CF329",
+      "file": "CF329.jpg",
+      "rating": 2.9,
+      "label": 1,
+      "split": "validation",
+      "sha256": "262bb9b5570d6f9652f051c38c50fc79aa3ac57e531b458d23cd9b114629987f"
+    },
+    {
+      "id": "CF33",
+      "file": "CF33.jpg",
+      "rating": 3.433333,
+      "label": 1,
+      "split": "train",
+      "sha256": "a1a674e6520faf7cd097b5065e9bcbb6607aac579e7c734b36412bf59e92dbc0"
+    },
+    {
+      "id": "CF330",
+      "file": "CF330.jpg",
+      "rating": 2.483333,
+      "label": 0,
+      "split": "test",
+      "sha256": "4e17c53e4fdacc63d5ebe982800a284dd46b85375e5ab41af477325ca64c9b8f"
+    },
+    {
+      "id": "CF331",
+      "file": "CF331.jpg",
+      "rating": 2.15,
+      "label": 0,
+      "split": "validation",
+      "sha256": "6f75312985e30e6c739b72dc592543316588d3b4158d558c44a67cbc87350bec"
+    },
+    {
+      "id": "CF333",
+      "file": "CF333.jpg",
+      "rating": 2.4,
+      "label": 0,
+      "split": "train",
+      "sha256": "39128847b270e58bfb693575cf3ee102cc96433c9a2c57f54a13911ee09d29d5"
+    },
+    {
+      "id": "CF334",
+      "file": "CF334.jpg",
+      "rating": 2.166667,
+      "label": 0,
+      "split": "train",
+      "sha256": "ed8eb19c63355cadd89aed7814dbbfac61f0ccad20117797138c9a5447ccd0d5"
+    },
+    {
+      "id": "CF335",
+      "file": "CF335.jpg",
+      "rating": 3.333333,
+      "label": 1,
+      "split": "train",
+      "sha256": "47e89f2104214d624cb2169fe86042a96832f553038b2cc64f872adf2f561e5f"
+    },
+    {
+      "id": "CF339",
+      "file": "CF339.jpg",
+      "rating": 3.2,
+      "label": 1,
+      "split": "test",
+      "sha256": "036309f06d21d935039b7d62131ee442f71da0f3981941567e74fb4a9948a271"
+    },
+    {
+      "id": "CF340",
+      "file": "CF340.jpg",
+      "rating": 2.35,
+      "label": 0,
+      "split": "test",
+      "sha256": "21ec7f77a1b940b29d776a938deb9db34354aaf4acea75685d5b31aea434435a"
+    },
+    {
+      "id": "CF341",
+      "file": "CF341.jpg",
+      "rating": 3.133333,
+      "label": 1,
+      "split": "train",
+      "sha256": "f0bd9edff7d9bc7f8bbf47f18656e4a5bcc08eb7a82971a3c69138a34f154298"
+    },
+    {
+      "id": "CF342",
+      "file": "CF342.jpg",
+      "rating": 3.05,
+      "label": 1,
+      "split": "train",
+      "sha256": "858bff8fac7d22caf93984e6f3774d19491d6b1bfea4ce4877fc9b12050c488f"
+    },
+    {
+      "id": "CF343",
+      "file": "CF343.jpg",
+      "rating": 2.933333,
+      "label": 1,
+      "split": "test",
+      "sha256": "0cebea38cec43b5291ee58e938edb9923276c699ad669dbea800fe82646ab045"
+    },
+    {
+      "id": "CF344",
+      "file": "CF344.jpg",
+      "rating": 3.316667,
+      "label": 1,
+      "split": "train",
+      "sha256": "b1e2882c01f4988113fa03a06684eefc2802e68d11e856fc728d3800d80a63d3"
+    },
+    {
+      "id": "CF345",
+      "file": "CF345.jpg",
+      "rating": 2.1,
+      "label": 0,
+      "split": "train",
+      "sha256": "25b58634ea42b545bf11cfab03f20be0a1c667172a5d2d637dbb4b73bfe8a482"
+    },
+    {
+      "id": "CF347",
+      "file": "CF347.jpg",
+      "rating": 2.983333,
+      "label": 1,
+      "split": "train",
+      "sha256": "49f3443d5582a61cc4bc358b18ae22f40ec312f0020dd0563507e65b488bbd75"
+    },
+    {
+      "id": "CF348",
+      "file": "CF348.jpg",
+      "rating": 1.75,
+      "label": 0,
+      "split": "validation",
+      "sha256": "ac503ab14e74a8b0c6892e563c8b48484b4dff53f82d78c3c9db570138226de3"
+    },
+    {
+      "id": "CF350",
+      "file": "CF350.jpg",
+      "rating": 2.55,
+      "label": 0,
+      "split": "train",
+      "sha256": "a48fcc0ea2c8d7fbf7e21906f4d3d8e505a6e7be354bcc376131fb74c1e4f8ee"
+    },
+    {
+      "id": "CF351",
+      "file": "CF351.jpg",
+      "rating": 2.3,
+      "label": 0,
+      "split": "train",
+      "sha256": "43856e06a9509af12c727b84035624373b65ff6edc945a0e2bf13c370d31ebc7"
+    },
+    {
+      "id": "CF352",
+      "file": "CF352.jpg",
+      "rating": 2.1,
+      "label": 0,
+      "split": "test",
+      "sha256": "77344ca41c15ce751eaa263804f1f32cc57a11d7c760703dd2572630421553b7"
+    },
+    {
+      "id": "CF353",
+      "file": "CF353.jpg",
+      "rating": 3.133333,
+      "label": 1,
+      "split": "train",
+      "sha256": "793d0a07894d0667fc876c5b9e29c2d371c695d45fdbaa25f1964464165e8b19"
+    },
+    {
+      "id": "CF354",
+      "file": "CF354.jpg",
+      "rating": 2.45,
+      "label": 0,
+      "split": "test",
+      "sha256": "09cb266311de1364222443f4fa0625bd0f5d75590368a279fa17faec6363bc38"
+    },
+    {
+      "id": "CF355",
+      "file": "CF355.jpg",
+      "rating": 2.316667,
+      "label": 0,
+      "split": "train",
+      "sha256": "df8e6c15ca4eba68a5ab09739da2a67a05c8d5b23571e8104718a511a4e4b2c9"
+    },
+    {
+      "id": "CF357",
+      "file": "CF357.jpg",
+      "rating": 3.033333,
+      "label": 1,
+      "split": "test",
+      "sha256": "e43cf6563499aad751e2259f92395cde8fe626945c1c5d6a1ae16bdfd92639b8"
+    },
+    {
+      "id": "CF358",
+      "file": "CF358.jpg",
+      "rating": 3.083333,
+      "label": 1,
+      "split": "train",
+      "sha256": "dfb02960f3329d85a53707408b978ea75ad6367ae884527be3641e1d768e29f6"
+    },
+    {
+      "id": "CF360",
+      "file": "CF360.jpg",
+      "rating": 2.3,
+      "label": 0,
+      "split": "validation",
+      "sha256": "6894ea53baa7ef577e5e411d0963d9db543e871a31085960ce256381e389ab95"
+    },
+    {
+      "id": "CF362",
+      "file": "CF362.jpg",
+      "rating": 3.15,
+      "label": 1,
+      "split": "train",
+      "sha256": "8d87ac57e790b3513c65bb8161673bdcd3105fdd6a08ec4d7a118352c818cd98"
+    },
+    {
+      "id": "CF363",
+      "file": "CF363.jpg",
+      "rating": 3.066667,
+      "label": 1,
+      "split": "train",
+      "sha256": "ac246863c19b892a40b573f049066b08ee4cb717cb95e9cb581dcbf4a39368e1"
+    },
+    {
+      "id": "CF364",
+      "file": "CF364.jpg",
+      "rating": 2.933333,
+      "label": 1,
+      "split": "train",
+      "sha256": "3e084f85534234fe97dbde190ef6a1a9c8ec1844c4e3a3e10c68bd7674eba763"
+    },
+    {
+      "id": "CF365",
+      "file": "CF365.jpg",
+      "rating": 3.6,
+      "label": 1,
+      "split": "validation",
+      "sha256": "fd40395af1d77817702c56bffb2290be312f3b9fc49a786dbd663bcf46a5ea53"
+    },
+    {
+      "id": "CF367",
+      "file": "CF367.jpg",
+      "rating": 3.15,
+      "label": 1,
+      "split": "train",
+      "sha256": "a834b6cd317f519b82ce671f69092372fb19f996a4d1b320351f9fccb62b17a0"
+    },
+    {
+      "id": "CF369",
+      "file": "CF369.jpg",
+      "rating": 2.55,
+      "label": 0,
+      "split": "validation",
+      "sha256": "a3606efc6455040abed73d66c3ce7505df1532aef4eb863227743ffb4e3399d3"
+    },
+    {
+      "id": "CF37",
+      "file": "CF37.jpg",
+      "rating": 2.516667,
+      "label": 0,
+      "split": "train",
+      "sha256": "ad806f906d50fd12d1004a1f4af01077f54bd11fe0d120b82f94815e5383d0f8"
+    },
+    {
+      "id": "CF370",
+      "file": "CF370.jpg",
+      "rating": 3.35,
+      "label": 1,
+      "split": "train",
+      "sha256": "a3417f679c9b3bbce2e572833e5b8cdab1228476a819bed75d0e328d30d9bf0b"
+    },
+    {
+      "id": "CF372",
+      "file": "CF372.jpg",
+      "rating": 3.25,
+      "label": 1,
+      "split": "train",
+      "sha256": "ba76b02fdc5d5220d47270151c938e9cd6908412a968bd3e29c2e0fe60882c5b"
+    },
+    {
+      "id": "CF373",
+      "file": "CF373.jpg",
+      "rating": 2.433333,
+      "label": 0,
+      "split": "train",
+      "sha256": "6a1e5727bdbe376fe25074186d481893065e305e38aba5f43a1640cc5fe6100b"
+    },
+    {
+      "id": "CF374",
+      "file": "CF374.jpg",
+      "rating": 3.8,
+      "label": 1,
+      "split": "train",
+      "sha256": "699a4d1d09d712a3e6b0fa8a1ed338d3545190de9fca9578b4a0eeb0a79a9ff9"
+    },
+    {
+      "id": "CF376",
+      "file": "CF376.jpg",
+      "rating": 2.45,
+      "label": 0,
+      "split": "train",
+      "sha256": "1401810e9a29a19f4b5c56176e120decd265e2074a2111b01004f541c9996aac"
+    },
+    {
+      "id": "CF377",
+      "file": "CF377.jpg",
+      "rating": 3.216667,
+      "label": 1,
+      "split": "train",
+      "sha256": "bb1ca106f4709417c8d575a19910a37f1c0b9cfd76c6d81dec47da49c72b54e7"
+    },
+    {
+      "id": "CF378",
+      "file": "CF378.jpg",
+      "rating": 2.15,
+      "label": 0,
+      "split": "validation",
+      "sha256": "befa7fce30d4080dd1a217683b0fbd90ee3a7c950a64c5fed992f32131a12500"
+    },
+    {
+      "id": "CF379",
+      "file": "CF379.jpg",
+      "rating": 3.5,
+      "label": 1,
+      "split": "train",
+      "sha256": "0569ddf4ac997ee38c7eef2bf2c256012b51047fc5992efdd6bb3c9d1e1bae71"
+    },
+    {
+      "id": "CF381",
+      "file": "CF381.jpg",
+      "rating": 2.466667,
+      "label": 0,
+      "split": "test",
+      "sha256": "b8669f23e18afd08bbe09bf9ea57ff6d7c9028bb03a07127482ceeab52f4d5f0"
+    },
+    {
+      "id": "CF382",
+      "file": "CF382.jpg",
+      "rating": 2.233333,
+      "label": 0,
+      "split": "test",
+      "sha256": "43cf2e544da331341a92311553a617e7eb951f28afd6c862dfaaddb3413d7148"
+    },
+    {
+      "id": "CF383",
+      "file": "CF383.jpg",
+      "rating": 2.966667,
+      "label": 1,
+      "split": "validation",
+      "sha256": "f68d11548b07f362693ef3f02874df64e7a052105f157c6d761dedfd928bda8c"
+    },
+    {
+      "id": "CF385",
+      "file": "CF385.jpg",
+      "rating": 3.666667,
+      "label": 1,
+      "split": "train",
+      "sha256": "62f67d926dd842d7d7103edcfcfc7c4cace66ad97020c11b5f1dbbd0db34da4b"
+    },
+    {
+      "id": "CF386",
+      "file": "CF386.jpg",
+      "rating": 3.066667,
+      "label": 1,
+      "split": "test",
+      "sha256": "96f5836e8d28ec6649409a9023be11a506d3dee1265614f4b96d1e68cb6059ce"
+    },
+    {
+      "id": "CF387",
+      "file": "CF387.jpg",
+      "rating": 2.433333,
+      "label": 0,
+      "split": "train",
+      "sha256": "a91153bb7e7b876ffdab63861103a277dcd923f8c5133ae08be05b0df5609edd"
+    },
+    {
+      "id": "CF388",
+      "file": "CF388.jpg",
+      "rating": 3.4,
+      "label": 1,
+      "split": "train",
+      "sha256": "47484c4c7ce4a0aaf7805f6856d6673956a60a46a21a24f6531599addd865758"
+    },
+    {
+      "id": "CF389",
+      "file": "CF389.jpg",
+      "rating": 2.066667,
+      "label": 0,
+      "split": "train",
+      "sha256": "bf0686b4ad87b0fbafba7784e367eb43dbcc8d02dd12a2590429112c288a8293"
+    },
+    {
+      "id": "CF39",
+      "file": "CF39.jpg",
+      "rating": 2.516667,
+      "label": 0,
+      "split": "test",
+      "sha256": "6a1101ce2759fe371df3c3bab2bf72f9aee00219dd179acc55bbe03288218191"
+    },
+    {
+      "id": "CF391",
+      "file": "CF391.jpg",
+      "rating": 3.55,
+      "label": 1,
+      "split": "test",
+      "sha256": "cb3a898451c906cc916c6ae8844bb3c7ab9d6eea28df8422542c33f0046e6795"
+    },
+    {
+      "id": "CF392",
+      "file": "CF392.jpg",
+      "rating": 3.183333,
+      "label": 1,
+      "split": "validation",
+      "sha256": "97e455e839f6df47085d2874496b6fa1e3bba1b944f7e4ef7077377f8309bd80"
+    },
+    {
+      "id": "CF393",
+      "file": "CF393.jpg",
+      "rating": 2.9,
+      "label": 1,
+      "split": "train",
+      "sha256": "84f10c3facb60f20ad5788eff14b59b9c35b421ed0f0068ab31d2fb0367c95cf"
+    },
+    {
+      "id": "CF396",
+      "file": "CF396.jpg",
+      "rating": 3.466667,
+      "label": 1,
+      "split": "train",
+      "sha256": "3d8ca615a4a200fcb644088d109493cb35476b0e275e954883695e5c453f8ad4"
+    },
+    {
+      "id": "CF398",
+      "file": "CF398.jpg",
+      "rating": 3.15,
+      "label": 1,
+      "split": "validation",
+      "sha256": "2b290392e05dbfe42b3ea24b20351de26d4afe57e1e64dbdbddc361c5096d225"
+    },
+    {
+      "id": "CF399",
+      "file": "CF399.jpg",
+      "rating": 3.05,
+      "label": 1,
+      "split": "train",
+      "sha256": "ceab1c499f3c6c13ed90119219639c268312380130fce728fe8a6ffd225c5c2f"
+    },
+    {
+      "id": "CF40",
+      "file": "CF40.jpg",
+      "rating": 3.383333,
+      "label": 1,
+      "split": "train",
+      "sha256": "b7edd137cff42c49eb97e01adfdb5d4804f5c58a21d229c816fcf07f1654f87b"
+    },
+    {
+      "id": "CF400",
+      "file": "CF400.jpg",
+      "rating": 3.1,
+      "label": 1,
+      "split": "test",
+      "sha256": "6a108397490ab086832d594c6b391b22b4890d983b55ce399750ad8aad2890e5"
+    },
+    {
+      "id": "CF402",
+      "file": "CF402.jpg",
+      "rating": 2.266667,
+      "label": 0,
+      "split": "validation",
+      "sha256": "54351da7d3f0182bd6e5006f93744389ef9ca08e8cb7605011764fbe1feddcf8"
+    },
+    {
+      "id": "CF403",
+      "file": "CF403.jpg",
+      "rating": 2.233333,
+      "label": 0,
+      "split": "train",
+      "sha256": "201eb6ed32e9cfed03ecd037f9f24ba76c67c765510e9a27946f3c4b0abcdbd1"
+    },
+    {
+      "id": "CF404",
+      "file": "CF404.jpg",
+      "rating": 2.233333,
+      "label": 0,
+      "split": "validation",
+      "sha256": "02c21fe408da118269c59d09344624a6bcb6383082d87977a480f2ff9ceccaab"
+    },
+    {
+      "id": "CF405",
+      "file": "CF405.jpg",
+      "rating": 3.383333,
+      "label": 1,
+      "split": "validation",
+      "sha256": "d3447364b1d8cb8411a9390658b12dbb765e257528d3af549cd644cb10673861"
+    },
+    {
+      "id": "CF406",
+      "file": "CF406.jpg",
+      "rating": 2.45,
+      "label": 0,
+      "split": "train",
+      "sha256": "e4743b01a62f800ebaecfd4d44ee860bcbd536d0b52aa7b6badfaf0348b2e6ad"
+    },
+    {
+      "id": "CF408",
+      "file": "CF408.jpg",
+      "rating": 3.1,
+      "label": 1,
+      "split": "train",
+      "sha256": "a6c9b6dc4d4879073f888c7dde22ceb670bf027cbcb5861904cc946fa3985b9a"
+    },
+    {
+      "id": "CF41",
+      "file": "CF41.jpg",
+      "rating": 2.183333,
+      "label": 0,
+      "split": "test",
+      "sha256": "976088ec41426cff52e9e85414a96e0b04f6ae44f33d76cd4d20b1a0d6693444"
+    },
+    {
+      "id": "CF411",
+      "file": "CF411.jpg",
+      "rating": 3.95,
+      "label": 1,
+      "split": "test",
+      "sha256": "ad98b778c07a97b17076c5fe3a5fa487574a9cb8a7c78d2cb4fc2378891dd879"
+    },
+    {
+      "id": "CF412",
+      "file": "CF412.jpg",
+      "rating": 2.183333,
+      "label": 0,
+      "split": "train",
+      "sha256": "8ce1689e80bbdb40d4f0559c8da71a5f66f987a839fc377cb0299aed799cd5bf"
+    },
+    {
+      "id": "CF414",
+      "file": "CF414.jpg",
+      "rating": 2.333333,
+      "label": 0,
+      "split": "validation",
+      "sha256": "8c95a8eaa33bb64c4a3a4e8e5f6e45761d3055bd1822a5734adc5478c3a7f5d6"
+    },
+    {
+      "id": "CF416",
+      "file": "CF416.jpg",
+      "rating": 2.416667,
+      "label": 0,
+      "split": "test",
+      "sha256": "f242222e9a66c247d5724d71dcac44cdad3f07d84c37921b311dce10f14fe3e7"
+    },
+    {
+      "id": "CF419",
+      "file": "CF419.jpg",
+      "rating": 2.35,
+      "label": 0,
+      "split": "train",
+      "sha256": "e819101f43ba3dc951f6e70e594feb9fe75dfc51339f791a9631cee295843ac4"
+    },
+    {
+      "id": "CF42",
+      "file": "CF42.jpg",
+      "rating": 3.333333,
+      "label": 1,
+      "split": "train",
+      "sha256": "e142a2ae026a3298c55bdab12ab1b1f4a31389c8b99e9b45529f57bc355fbea8"
+    },
+    {
+      "id": "CF420",
+      "file": "CF420.jpg",
+      "rating": 3.7,
+      "label": 1,
+      "split": "test",
+      "sha256": "8344b7f49e4256d4e0570ad6eeb5a5a6125ca65108a3b8c867cc0215b7f9b561"
+    },
+    {
+      "id": "CF421",
+      "file": "CF421.jpg",
+      "rating": 3.183333,
+      "label": 1,
+      "split": "train",
+      "sha256": "7cb39ba0e935182eefcf4989028afcfa4eb8735b1b69257cd3e3a57fb5f737aa"
+    },
+    {
+      "id": "CF422",
+      "file": "CF422.jpg",
+      "rating": 2.516667,
+      "label": 0,
+      "split": "validation",
+      "sha256": "42e750d0e0740e8970c1ce6fa35f03b9aa051f705cb11aed23a36e0588873fe1"
+    },
+    {
+      "id": "CF423",
+      "file": "CF423.jpg",
+      "rating": 3.833333,
+      "label": 1,
+      "split": "train",
+      "sha256": "5aeb6651982bf2615bdd8a82e99cdf8a42c9c41c2fdf023e92f1cd7975e852b7"
+    },
+    {
+      "id": "CF424",
+      "file": "CF424.jpg",
+      "rating": 3.15,
+      "label": 1,
+      "split": "train",
+      "sha256": "a6be9d3396d468916a3283627ec96ff6a84933b198fa269dc50f758b3f4de813"
+    },
+    {
+      "id": "CF426",
+      "file": "CF426.jpg",
+      "rating": 2.933333,
+      "label": 1,
+      "split": "train",
+      "sha256": "49c4f1104886e947567cc03c285663870f91a66a017cb3751d2afd1a2c1706c2"
+    },
+    {
+      "id": "CF43",
+      "file": "CF43.jpg",
+      "rating": 2.283333,
+      "label": 0,
+      "split": "train",
+      "sha256": "05fcc0bcd238c6cce9bf4ef94ed0f44d2c1efdf80ce479f671ec7c8551d6ff02"
+    },
+    {
+      "id": "CF430",
+      "file": "CF430.jpg",
+      "rating": 2.3,
+      "label": 0,
+      "split": "train",
+      "sha256": "756ce85cbd5bce11d4c7c7711ad6a8adddafe1735212d1723ce5a07c7d98f89e"
+    },
+    {
+      "id": "CF432",
+      "file": "CF432.jpg",
+      "rating": 2.166667,
+      "label": 0,
+      "split": "train",
+      "sha256": "d625e55076689f38bbf0b1e7a05de061e9fff7a47fcc876fc3ab873fddee91de"
+    },
+    {
+      "id": "CF433",
+      "file": "CF433.jpg",
+      "rating": 2.233333,
+      "label": 0,
+      "split": "train",
+      "sha256": "e9d90fa802fa38fedbf461350a01561975f628b12853a1911f737ea0e0b50e26"
+    },
+    {
+      "id": "CF434",
+      "file": "CF434.jpg",
+      "rating": 2.983333,
+      "label": 1,
+      "split": "train",
+      "sha256": "0c39d1d372974f0863b1e7af6666e526f116ed3400a34e0b5f6cdd011998f206"
+    },
+    {
+      "id": "CF436",
+      "file": "CF436.jpg",
+      "rating": 3.166667,
+      "label": 1,
+      "split": "validation",
+      "sha256": "48e26ee0e99ec7a87bfc18dd8d585a3c47efb0acf58e12401acf6fb191bc0808"
+    },
+    {
+      "id": "CF438",
+      "file": "CF438.jpg",
+      "rating": 2.216667,
+      "label": 0,
+      "split": "train",
+      "sha256": "ad74dc938f8774142f96f0a3d7d79f04117186be883e0d2c6e2d111499be1049"
+    },
+    {
+      "id": "CF440",
+      "file": "CF440.jpg",
+      "rating": 3.116667,
+      "label": 1,
+      "split": "test",
+      "sha256": "f4dcdad02960872cbed45ba9c14c67d225e6252afa06e9727ec4f35246435d28"
+    },
+    {
+      "id": "CF443",
+      "file": "CF443.jpg",
+      "rating": 2.316667,
+      "label": 0,
+      "split": "train",
+      "sha256": "7faeef2ee8c21e9a9d4a9b4252874660ddca91ba05c55bc482092d4bda0ef645"
+    },
+    {
+      "id": "CF444",
+      "file": "CF444.jpg",
+      "rating": 2.266667,
+      "label": 0,
+      "split": "train",
+      "sha256": "a4b07baeb3e3d4b9b704f3af0afcfc36596976047547e5ebdb824450c69e9323"
+    },
+    {
+      "id": "CF445",
+      "file": "CF445.jpg",
+      "rating": 2.95,
+      "label": 1,
+      "split": "validation",
+      "sha256": "f4791892f4b2e229ab80e4bb9aa4c611508bd2648946b005e0f5bee536178415"
+    },
+    {
+      "id": "CF446",
+      "file": "CF446.jpg",
+      "rating": 2.333333,
+      "label": 0,
+      "split": "test",
+      "sha256": "ba28d26aadc89addecdd13a0c12b8059613867c37286e25ab6beee74d3267d86"
+    },
+    {
+      "id": "CF447",
+      "file": "CF447.jpg",
+      "rating": 3.0,
+      "label": 1,
+      "split": "train",
+      "sha256": "f974ea228ee06777fd112e96027e05b7f6e38593c151fc5cfb61b909739db53a"
+    },
+    {
+      "id": "CF448",
+      "file": "CF448.jpg",
+      "rating": 3.316667,
+      "label": 1,
+      "split": "train",
+      "sha256": "0a941b49c5f0f5ba9c6d00fc4698f08ad654e7558ff77a32be86eabe167ecf15"
+    },
+    {
+      "id": "CF450",
+      "file": "CF450.jpg",
+      "rating": 3.0,
+      "label": 1,
+      "split": "test",
+      "sha256": "0a1fe00733dc30af26a1703a9bd811461579badca37e05fc54521afef4febb9c"
+    },
+    {
+      "id": "CF452",
+      "file": "CF452.jpg",
+      "rating": 3.016667,
+      "label": 1,
+      "split": "train",
+      "sha256": "13e98f1f94325f685ed388722ef6ac1074b6c897a99c40eca48c069e719bfc85"
+    },
+    {
+      "id": "CF453",
+      "file": "CF453.jpg",
+      "rating": 2.266667,
+      "label": 0,
+      "split": "validation",
+      "sha256": "d686c83c25735b7e8f666eedf15461451c40a9178118dbba71c5a17ac745692e"
+    },
+    {
+      "id": "CF454",
+      "file": "CF454.jpg",
+      "rating": 2.383333,
+      "label": 0,
+      "split": "train",
+      "sha256": "5d09f171c00bf26fa2d6bd920581ae166adf35c3abd6eb61923610e5eec5a854"
+    },
+    {
+      "id": "CF455",
+      "file": "CF455.jpg",
+      "rating": 4.016667,
+      "label": 1,
+      "split": "test",
+      "sha256": "715ce11fbd2c602a42c9e007ce7e3c928e5e7c1b0e92f2f3f6aa9e3c14814952"
+    },
+    {
+      "id": "CF456",
+      "file": "CF456.jpg",
+      "rating": 3.666667,
+      "label": 1,
+      "split": "validation",
+      "sha256": "2d3962bbf24b108717d66a46a60424b13a4bf42b42a01ebb90472cbdaf350df3"
+    },
+    {
+      "id": "CF46",
+      "file": "CF46.jpg",
+      "rating": 2.483333,
+      "label": 0,
+      "split": "train",
+      "sha256": "bb4d132e914c725eecdf3ba79c150219de55148e6c342ce647c2d8bbd386624f"
+    },
+    {
+      "id": "CF462",
+      "file": "CF462.jpg",
+      "rating": 2.416667,
+      "label": 0,
+      "split": "validation",
+      "sha256": "46f0b8d033c7ede3ac6a1ec78de211e0f48f4962fa7180d8bcb94f8d81359300"
+    },
+    {
+      "id": "CF464",
+      "file": "CF464.jpg",
+      "rating": 2.116667,
+      "label": 0,
+      "split": "train",
+      "sha256": "e815c3cf5d2c57dfe5a9ed8daaab660d2762cf3f40d9e937759bb24e272b6fc9"
+    },
+    {
+      "id": "CF465",
+      "file": "CF465.jpg",
+      "rating": 2.916667,
+      "label": 1,
+      "split": "train",
+      "sha256": "25f5dd3a922d5327d87b63b18db9aa80dbf6e0ade71d003d9106ebcd5f8637c4"
+    },
+    {
+      "id": "CF467",
+      "file": "CF467.jpg",
+      "rating": 2.916667,
+      "label": 1,
+      "split": "train",
+      "sha256": "ee16c8b5a626299f221f93c9ce3bd481197e9c126115a68143f1196f618591e7"
+    },
+    {
+      "id": "CF469",
+      "file": "CF469.jpg",
+      "rating": 2.266667,
+      "label": 0,
+      "split": "test",
+      "sha256": "0e8c95340b9054a873acbe040978b4be2462c6e77fbc6d6bc1370b764dd1425e"
+    },
+    {
+      "id": "CF47",
+      "file": "CF47.jpg",
+      "rating": 2.933333,
+      "label": 1,
+      "split": "train",
+      "sha256": "0ca4b227545e79595c492a7ed186b0332422d7e7d876acc5d83050c4092cefcb"
+    },
+    {
+      "id": "CF470",
+      "file": "CF470.jpg",
+      "rating": 3.75,
+      "label": 1,
+      "split": "train",
+      "sha256": "cc5b73df9a202e255a172b98f709e0d024af6e0068a7380070a6c42aca2e0c54"
+    },
+    {
+      "id": "CF472",
+      "file": "CF472.jpg",
+      "rating": 2.516667,
+      "label": 0,
+      "split": "train",
+      "sha256": "8f83ae8964ee54b76aac6069e8de019d33aabbed3a47a23acd4bf02088829ef5"
+    },
+    {
+      "id": "CF473",
+      "file": "CF473.jpg",
+      "rating": 3.1,
+      "label": 1,
+      "split": "train",
+      "sha256": "a19101ac18f28a69ce73bd00c7b0b9a2b15cc1d8cf9ad846e8cc7c647975229b"
+    },
+    {
+      "id": "CF474",
+      "file": "CF474.jpg",
+      "rating": 2.15,
+      "label": 0,
+      "split": "train",
+      "sha256": "77313777075d602017e8ea140da1ff3e3b1fa74f265f5466900d7a77c2ed7c9d"
+    },
+    {
+      "id": "CF475",
+      "file": "CF475.jpg",
+      "rating": 3.416667,
+      "label": 1,
+      "split": "train",
+      "sha256": "d9be6553d90c74f8e99af0880520648629916dd177474fa3490d9d831958a884"
+    },
+    {
+      "id": "CF477",
+      "file": "CF477.jpg",
+      "rating": 1.866667,
+      "label": 0,
+      "split": "train",
+      "sha256": "bfdc0a470c866ae16db1b4e013badb668ecbf8f60ea22c6f434d15d512b46415"
+    },
+    {
+      "id": "CF478",
+      "file": "CF478.jpg",
+      "rating": 2.516667,
+      "label": 0,
+      "split": "train",
+      "sha256": "9939c5786b34b219c47cd3f6a5088d285979043321c30af7dcf4a833313ceed0"
+    },
+    {
+      "id": "CF480",
+      "file": "CF480.jpg",
+      "rating": 3.633333,
+      "label": 1,
+      "split": "train",
+      "sha256": "2bc34410d5babc0f360e2ec63a8bd3443eb00dbf1f18ae3578c83195ddd81a07"
+    },
+    {
+      "id": "CF481",
+      "file": "CF481.jpg",
+      "rating": 2.416667,
+      "label": 0,
+      "split": "train",
+      "sha256": "e0b6cf7eb208b2a1646e8cd23004ee12f4cb16e18c18f441b45d34215961de27"
+    },
+    {
+      "id": "CF483",
+      "file": "CF483.jpg",
+      "rating": 3.966667,
+      "label": 1,
+      "split": "train",
+      "sha256": "4d7e07d340fd188a6ced78a9392dc173c4bd51a5d9ffd051a2cd836d15bb7246"
+    },
+    {
+      "id": "CF484",
+      "file": "CF484.jpg",
+      "rating": 2.9,
+      "label": 1,
+      "split": "test",
+      "sha256": "6b144bd461629920c8336d875463817edfe4705d2504acb8cc48e646295505a8"
+    },
+    {
+      "id": "CF487",
+      "file": "CF487.jpg",
+      "rating": 2.133333,
+      "label": 0,
+      "split": "train",
+      "sha256": "aadc87b45f0dd1fe7bc34678fd251f1c2842889c40cfb80da65b6cc060df4a7b"
+    },
+    {
+      "id": "CF488",
+      "file": "CF488.jpg",
+      "rating": 2.9,
+      "label": 1,
+      "split": "test",
+      "sha256": "5cce4df128960790b1f36d4a78a74a326df3de175e68a5afcdcd4c0793db6224"
+    },
+    {
+      "id": "CF491",
+      "file": "CF491.jpg",
+      "rating": 2.116667,
+      "label": 0,
+      "split": "train",
+      "sha256": "99bbfdf73167a3e4b00e217ff0eef10a4c6e1572d5f5cc8b7889c4643097d6ff"
+    },
+    {
+      "id": "CF492",
+      "file": "CF492.jpg",
+      "rating": 2.3,
+      "label": 0,
+      "split": "train",
+      "sha256": "2e7c9c4e57005ea630ce5fce886e62cbbc59eb937691b1f531193205f9d04edc"
+    },
+    {
+      "id": "CF494",
+      "file": "CF494.jpg",
+      "rating": 2.183333,
+      "label": 0,
+      "split": "train",
+      "sha256": "5756ffa31df67a124278c409dcbda02a6d6e07bbd9a7e8637c00ad04623c4f83"
+    },
+    {
+      "id": "CF495",
+      "file": "CF495.jpg",
+      "rating": 2.933333,
+      "label": 1,
+      "split": "train",
+      "sha256": "e380f33a6a16f82856d1df7a28ecb91f8a1f31c3b94b90f7846670e9b6820245"
+    },
+    {
+      "id": "CF496",
+      "file": "CF496.jpg",
+      "rating": 1.85,
+      "label": 0,
+      "split": "validation",
+      "sha256": "6b1ea15e8b8b3aee95a49b4d62727e598cf7c58515c9a0d5dc8b8811bffba1ab"
+    },
+    {
+      "id": "CF499",
+      "file": "CF499.jpg",
+      "rating": 2.366667,
+      "label": 0,
+      "split": "validation",
+      "sha256": "543da7a9a64a876037fe743b4dc8ccedad5dd0cc09230afab7ba77a91b5d757f"
+    },
+    {
+      "id": "CF501",
+      "file": "CF501.jpg",
+      "rating": 2.45,
+      "label": 0,
+      "split": "validation",
+      "sha256": "dbd5c6cee4ee6f7232f8d557f966c32b7a7955a6a0623e6310c3e02635f75f72"
+    },
+    {
+      "id": "CF504",
+      "file": "CF504.jpg",
+      "rating": 2.483333,
+      "label": 0,
+      "split": "test",
+      "sha256": "c94c7413b7a1e145c9da4d88dd26b6f69fa26c3b78a3e8b0d6af8fade96cf3d9"
+    },
+    {
+      "id": "CF505",
+      "file": "CF505.jpg",
+      "rating": 3.2,
+      "label": 1,
+      "split": "validation",
+      "sha256": "e30a94b31408c95164b37afd4b677768b0be716e44c3c54325c492fc9100c650"
+    },
+    {
+      "id": "CF506",
+      "file": "CF506.jpg",
+      "rating": 3.083333,
+      "label": 1,
+      "split": "train",
+      "sha256": "2f6281a1867a57a89b60eb0d1c8800f875bb5ccc166c3325134ab2064520db68"
+    },
+    {
+      "id": "CF51",
+      "file": "CF51.jpg",
+      "rating": 2.483333,
+      "label": 0,
+      "split": "train",
+      "sha256": "3569e6b885ea1a3949477f6705af8642afa9d24d36a9115aa70a2080413a90c5"
+    },
+    {
+      "id": "CF510",
+      "file": "CF510.jpg",
+      "rating": 3.633333,
+      "label": 1,
+      "split": "train",
+      "sha256": "f225d9a98c478310e5865bc19558f21749263efa4c51cbf250a856e6df1f7ddc"
+    },
+    {
+      "id": "CF511",
+      "file": "CF511.jpg",
+      "rating": 2.05,
+      "label": 0,
+      "split": "train",
+      "sha256": "19dcf8e89195f87eacf9201734930e5071302ead1aeae05e7c34f7ec04c521c2"
+    },
+    {
+      "id": "CF513",
+      "file": "CF513.jpg",
+      "rating": 2.266667,
+      "label": 0,
+      "split": "validation",
+      "sha256": "0a57c61f1a82834f2326cd0faf4b4ddc6c4b1ee38329d2ac51c31b2e6239da3c"
+    },
+    {
+      "id": "CF514",
+      "file": "CF514.jpg",
+      "rating": 2.283333,
+      "label": 0,
+      "split": "train",
+      "sha256": "969dde709a0e054967707020150b179c29cd93ccf7d6efd920eada8b622f489c"
+    },
+    {
+      "id": "CF515",
+      "file": "CF515.jpg",
+      "rating": 2.183333,
+      "label": 0,
+      "split": "train",
+      "sha256": "4f7ca548c6510c9d87e704edb8880cbc8293b1fade9058ecae0750b63ce84523"
+    },
+    {
+      "id": "CF516",
+      "file": "CF516.jpg",
+      "rating": 3.416667,
+      "label": 1,
+      "split": "test",
+      "sha256": "ab0cced901191ec9d6ab18e1b2b377b59beaf28dd7a24d48c15c82f0047aa720"
+    },
+    {
+      "id": "CF517",
+      "file": "CF517.jpg",
+      "rating": 1.916667,
+      "label": 0,
+      "split": "test",
+      "sha256": "09332fdfb1f1a4a3a7a5c4df6a49712af1c173a5d7d250682d79fa4ea66c1151"
+    },
+    {
+      "id": "CF518",
+      "file": "CF518.jpg",
+      "rating": 2.416667,
+      "label": 0,
+      "split": "test",
+      "sha256": "bbf01ff1b63c35e78cd0ef239d6538544cf005926d841cceb88308e1771eb7f9"
+    },
+    {
+      "id": "CF52",
+      "file": "CF52.jpg",
+      "rating": 2.516667,
+      "label": 0,
+      "split": "train",
+      "sha256": "12a1e860149984f197fe63083ddae2048200a7f0cc734093b5d5c3ab061fcca8"
+    },
+    {
+      "id": "CF520",
+      "file": "CF520.jpg",
+      "rating": 3.4,
+      "label": 1,
+      "split": "train",
+      "sha256": "f0a6b6e7351ba6c04f756c7963a347fbec2f6e1350a0ca93acfd3190e21c00b1"
+    },
+    {
+      "id": "CF521",
+      "file": "CF521.jpg",
+      "rating": 2.266667,
+      "label": 0,
+      "split": "train",
+      "sha256": "a939f03a9ac13fcd47031ebbd5b0cedfa56ac02aef3f48447aa35eb6dfa23204"
+    },
+    {
+      "id": "CF522",
+      "file": "CF522.jpg",
+      "rating": 2.9,
+      "label": 1,
+      "split": "validation",
+      "sha256": "dc304f0342ca9b98c60731be6d22735f6ab24376166736095c9d949be345e0ef"
+    },
+    {
+      "id": "CF523",
+      "file": "CF523.jpg",
+      "rating": 2.35,
+      "label": 0,
+      "split": "validation",
+      "sha256": "9b64c7a4a5b4c2500b55b00ce7f56e0d8b77de1ca0bd1e53476dea7ed95fb419"
+    },
+    {
+      "id": "CF525",
+      "file": "CF525.jpg",
+      "rating": 2.133333,
+      "label": 0,
+      "split": "test",
+      "sha256": "296d923db616765006c4944ad68c238ba2628e0ceae94b67c04ca7b1e731d42d"
+    },
+    {
+      "id": "CF526",
+      "file": "CF526.jpg",
+      "rating": 3.166667,
+      "label": 1,
+      "split": "train",
+      "sha256": "867407adad5b95c50114613affd5a1918d91959e616aad13dfa1eebbf036f599"
+    },
+    {
+      "id": "CF529",
+      "file": "CF529.jpg",
+      "rating": 2.933333,
+      "label": 1,
+      "split": "train",
+      "sha256": "b36b8f611ac28d9615493359f2bb3d916055595861dc896b72d91a41d9dcc63d"
+    },
+    {
+      "id": "CF53",
+      "file": "CF53.jpg",
+      "rating": 2.116667,
+      "label": 0,
+      "split": "test",
+      "sha256": "e143370af70c9a17fac59a7c372cec804628bd229034781798a24ab8aba6d036"
+    },
+    {
+      "id": "CF532",
+      "file": "CF532.jpg",
+      "rating": 3.033333,
+      "label": 1,
+      "split": "train",
+      "sha256": "bbfc49ab86e30d03b3554f282dfa03000e80c49c5d581ad0f06fb62fad8d3db0"
+    },
+    {
+      "id": "CF533",
+      "file": "CF533.jpg",
+      "rating": 2.516667,
+      "label": 0,
+      "split": "train",
+      "sha256": "55e964a14f5273ce389fe6836a38158368204fcef3cdcbd22f22cc3cff7221bc"
+    },
+    {
+      "id": "CF535",
+      "file": "CF535.jpg",
+      "rating": 3.15,
+      "label": 1,
+      "split": "train",
+      "sha256": "6c15c5ca7bf8aba63caa43f6c532fc39e04d98364a86188b590042d67128e906"
+    },
+    {
+      "id": "CF536",
+      "file": "CF536.jpg",
+      "rating": 3.733333,
+      "label": 1,
+      "split": "test",
+      "sha256": "b197621b9c1e78f24a206c97a791589fe0b63cab6cb98d9d42b452c351397472"
+    },
+    {
+      "id": "CF537",
+      "file": "CF537.jpg",
+      "rating": 3.433333,
+      "label": 1,
+      "split": "train",
+      "sha256": "d32eb5faafdf368917d12daf2c72c60090395f728831fe237087fb68f56802af"
+    },
+    {
+      "id": "CF54",
+      "file": "CF54.jpg",
+      "rating": 2.45,
+      "label": 0,
+      "split": "train",
+      "sha256": "7af2738104ea898c3c14ba77120136ecfae4894d340e2bde32c4b40535a0b9c4"
+    },
+    {
+      "id": "CF540",
+      "file": "CF540.jpg",
+      "rating": 3.55,
+      "label": 1,
+      "split": "test",
+      "sha256": "df0266f644539741a01f013da834d732bc4de6995baefe63ec316c11298218dd"
+    },
+    {
+      "id": "CF541",
+      "file": "CF541.jpg",
+      "rating": 3.7,
+      "label": 1,
+      "split": "validation",
+      "sha256": "91ea4274726b9872fca5a177349483b008292b608009fd0e6d85338fbd91e12c"
+    },
+    {
+      "id": "CF542",
+      "file": "CF542.jpg",
+      "rating": 2.9,
+      "label": 1,
+      "split": "train",
+      "sha256": "e6abb7ed10101b60d1f5e29de1b77efb91a8a0262b55c6a94efc93c1f8d39e99"
+    },
+    {
+      "id": "CF55",
+      "file": "CF55.jpg",
+      "rating": 3.583333,
+      "label": 1,
+      "split": "train",
+      "sha256": "9ad6b97cbef7f92591ec1a041d00f14038ad5e76dedc65e28d47bcca15f5fa1d"
+    },
+    {
+      "id": "CF56",
+      "file": "CF56.jpg",
+      "rating": 2.383333,
+      "label": 0,
+      "split": "validation",
+      "sha256": "8369a99fb9e4343832cbaaaf11dddb6406951481ad2288125b56c9eb0c706edf"
+    },
+    {
+      "id": "CF57",
+      "file": "CF57.jpg",
+      "rating": 3.65,
+      "label": 1,
+      "split": "validation",
+      "sha256": "85bdab2e8b9363751a4ddd99d6c452e3aa0ed43c464873e6fa951341cb92c676"
+    },
+    {
+      "id": "CF58",
+      "file": "CF58.jpg",
+      "rating": 2.283333,
+      "label": 0,
+      "split": "test",
+      "sha256": "2b5404d1b5c509ec18adb61309e6ad941158ede6674c121b8fc9c09078440112"
+    },
+    {
+      "id": "CF59",
+      "file": "CF59.jpg",
+      "rating": 2.15,
+      "label": 0,
+      "split": "train",
+      "sha256": "dbbd51428d699570a9ec4e831ab9b122deea2c2ad633f135412ce0bb75cb619d"
+    },
+    {
+      "id": "CF608",
+      "file": "CF608.jpg",
+      "rating": 2.283333,
+      "label": 0,
+      "split": "train",
+      "sha256": "c152f574f2257e254ff4836ca1b68c0703162eeed73e3a5d4cbe76168fcefc4e"
+    },
+    {
+      "id": "CF61",
+      "file": "CF61.jpg",
+      "rating": 3.983333,
+      "label": 1,
+      "split": "train",
+      "sha256": "f4164c763a2e57b8f9411ad2a3a94ddc1e5077cfd377ec7b9001d32ab04f9f95"
+    },
+    {
+      "id": "CF62",
+      "file": "CF62.jpg",
+      "rating": 2.166667,
+      "label": 0,
+      "split": "validation",
+      "sha256": "2c60a8116b626de4f07acb1678b5971cb671c5ccefab285e3c1336dc65b1c420"
+    },
+    {
+      "id": "CF63",
+      "file": "CF63.jpg",
+      "rating": 2.366667,
+      "label": 0,
+      "split": "test",
+      "sha256": "105ca51b0eeb9bf4f030e8c8f69885c91190459a4fccd0c1db51eee9962cf1ee"
+    },
+    {
+      "id": "CF64",
+      "file": "CF64.jpg",
+      "rating": 3.166667,
+      "label": 1,
+      "split": "validation",
+      "sha256": "b6aed2e48ad66f94cb3052482295df6f27f0cc7aded66e2f44e934b417bf756c"
+    },
+    {
+      "id": "CF65",
+      "file": "CF65.jpg",
+      "rating": 1.333333,
+      "label": 0,
+      "split": "train",
+      "sha256": "358bc571fda118b798ff5ab7f29d4e6d91ca2b535563ff12c36e2cd73cc3a34c"
+    },
+    {
+      "id": "CF68",
+      "file": "CF68.jpg",
+      "rating": 3.6,
+      "label": 1,
+      "split": "test",
+      "sha256": "6d50413fa05c823a7064fc5b73d1a349e3642e4ceab708b8bf70b5eacaa90727"
+    },
+    {
+      "id": "CF69",
+      "file": "CF69.jpg",
+      "rating": 3.0,
+      "label": 1,
+      "split": "test",
+      "sha256": "cf1599acf934b3e12077cc8770fdb40072efe223ba5cb387712790ac83c494d1"
+    },
+    {
+      "id": "CF70",
+      "file": "CF70.jpg",
+      "rating": 3.1,
+      "label": 1,
+      "split": "test",
+      "sha256": "9c99f005593850fdafe5af633c3d968b979a2577cafb01e8345d9e9923c75b8c"
+    },
+    {
+      "id": "CF72",
+      "file": "CF72.jpg",
+      "rating": 2.416667,
+      "label": 0,
+      "split": "train",
+      "sha256": "1e6076c9489529823fce6b1b6e958623ccfaa877d8e1ce07a0b194589903d042"
+    },
+    {
+      "id": "CF73",
+      "file": "CF73.jpg",
+      "rating": 2.4,
+      "label": 0,
+      "split": "test",
+      "sha256": "a11ca50f5f9b70ca180f5f8a392529cc0e62b91d90ecfea7e07a82af31c78597"
+    },
+    {
+      "id": "CF74",
+      "file": "CF74.jpg",
+      "rating": 2.316667,
+      "label": 0,
+      "split": "validation",
+      "sha256": "310083693abf380d0f5b12c3e128694b9764e7ba7173130476482ac32dec46f0"
+    },
+    {
+      "id": "CF75",
+      "file": "CF75.jpg",
+      "rating": 2.233333,
+      "label": 0,
+      "split": "validation",
+      "sha256": "672518cbb42635c73235918e8566a9572d96fa0534ac17096155f993123f4787"
+    },
+    {
+      "id": "CF76",
+      "file": "CF76.jpg",
+      "rating": 1.95,
+      "label": 0,
+      "split": "test",
+      "sha256": "9d7003653d387fed5969e478494c8136e3a9ff4bbe20672457cfab060e7ef8ed"
+    },
+    {
+      "id": "CF77",
+      "file": "CF77.jpg",
+      "rating": 3.2,
+      "label": 1,
+      "split": "train",
+      "sha256": "f711fd39d63e55617ee9b49aec104e0ca0ddf216b7454ca1fa78db051ea2a94a"
+    },
+    {
+      "id": "CF78",
+      "file": "CF78.jpg",
+      "rating": 2.266667,
+      "label": 0,
+      "split": "train",
+      "sha256": "06e04369b6f9c7b68aac4d35fabae56710fcec96e567bdbaaec8318b39975f12"
+    },
+    {
+      "id": "CF81",
+      "file": "CF81.jpg",
+      "rating": 2.933333,
+      "label": 1,
+      "split": "test",
+      "sha256": "cfa21391c5ed9cfd49433a417ea3f2c3525914f11be29748a09e19103a08a4d6"
+    },
+    {
+      "id": "CF82",
+      "file": "CF82.jpg",
+      "rating": 2.95,
+      "label": 1,
+      "split": "train",
+      "sha256": "1af8c88cfff2a5a8b2b4adf957e35b315b9aeaef634f0efe9f6bf25182b5fc97"
+    },
+    {
+      "id": "CF83",
+      "file": "CF83.jpg",
+      "rating": 2.9,
+      "label": 1,
+      "split": "train",
+      "sha256": "ed497909d7ec5722bbab8587409fd8a9e40621ac26208491f27bbed1ebe0208c"
+    },
+    {
+      "id": "CF85",
+      "file": "CF85.jpg",
+      "rating": 2.933333,
+      "label": 1,
+      "split": "train",
+      "sha256": "abc98196595b6f49e1ad5dde91c723329c7af34d17500008e870e7e5e3c195fc"
+    },
+    {
+      "id": "CF87",
+      "file": "CF87.jpg",
+      "rating": 2.066667,
+      "label": 0,
+      "split": "train",
+      "sha256": "585ab82d565a3b8fb32069f7f890bbe63de6fa48a119ff1e025a094f024d741d"
+    },
+    {
+      "id": "CF88",
+      "file": "CF88.jpg",
+      "rating": 2.983333,
+      "label": 1,
+      "split": "train",
+      "sha256": "20b6ace4c62de88d100deb177fd260ecee89f43fd8c01a3df686222995a08988"
+    },
+    {
+      "id": "CF91",
+      "file": "CF91.jpg",
+      "rating": 1.883333,
+      "label": 0,
+      "split": "train",
+      "sha256": "fadcf921c62191f2737ec3b83f80a26811ab943a3a2fe9ae3abf66471451752e"
+    },
+    {
+      "id": "CF92",
+      "file": "CF92.jpg",
+      "rating": 3.033333,
+      "label": 1,
+      "split": "train",
+      "sha256": "5c33c8e3ba909301bc1f935dc4e7df079e240af00e038daa9176cb0815298d5d"
+    },
+    {
+      "id": "CF93",
+      "file": "CF93.jpg",
+      "rating": 3.633333,
+      "label": 1,
+      "split": "train",
+      "sha256": "a4f7c652eafb23f368fb9970db3607d68a01800b07d15f293ce7e9fb5abd6908"
+    },
+    {
+      "id": "CF94",
+      "file": "CF94.jpg",
+      "rating": 2.383333,
+      "label": 0,
+      "split": "test",
+      "sha256": "d0cd88695a5028ed1e5bd2ff88fc9002d36f7f8c03e2657d09b452dd10af3a86"
+    },
+    {
+      "id": "CF95",
+      "file": "CF95.jpg",
+      "rating": 2.066667,
+      "label": 0,
+      "split": "test",
+      "sha256": "a77170c3aec7f583bef93c27d69ec1b86cb605a4d759b1f617707bb5302689ee"
+    },
+    {
+      "id": "CF99",
+      "file": "CF99.jpg",
+      "rating": 3.983333,
+      "label": 1,
+      "split": "validation",
+      "sha256": "e1a006a18987a11af941b7959e171b57819f03623394fe393892b43ccbe744e4"
+    }
+  ],
+  "sourceSHA256": {
+    "train_test_files/All_labels.txt": "fa0096e90a2dad8d7f9f459335c608b48ab813c1530ad44e9822a6f62638b6ce",
+    "Images_Sources.xlsx": "43520722b6c97c5f86656528d104c1fc90d19ab54d8e76c52d0fe7160b67a005"
+  }
+}
